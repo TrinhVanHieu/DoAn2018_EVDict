@@ -189,6 +189,8 @@
     <Image Include="..\..\iconToolBar\logo.bmp" />
     <Image Include="..\..\iconToolBar\LogoUCTnew.bmp" />
     <Image Include="..\..\iconToolBar\LogoUTC.bmp" />
+    <Image Include="..\..\iconToolBar\SearchToolbar.bmp" />
+    <Image Include="..\..\iconToolBar\SToolbar.bmp" />
     <Image Include="..\..\iconToolBar\TBitmap.bmp" />
     <Image Include="..\..\iconToolBar\Ubitmap.bmp" />
     <Image Include="..\..\iconToolBar\Vbitmap.bmp" />

@@ -1,10 +1,8 @@
 ﻿  EVDict.cpp
-d:\evdict\evdict\evdict\evdict.cpp(84): warning C4018: '<': signed/unsigned mismatch
-d:\evdict\evdict\evdict\evdict.cpp(326): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1258)
-d:\evdict\evdict\evdict\evdict.cpp(326): warning C4566: character represented by universal-character-name '\u00F5' cannot be represented in the current code page (1258)
-d:\evdict\evdict\evdict\evdict.cpp(326): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1258)
-d:\evdict\evdict\evdict\evdict.cpp(358): warning C4018: '<': signed/unsigned mismatch
-d:\evdict\evdict\evdict\evdict.cpp(360): warning C4018: '<': signed/unsigned mismatch
-d:\evdict\evdict\evdict\evdict.cpp(366): warning C4018: '<': signed/unsigned mismatch
-d:\evdict\evdict\evdict\evdict.cpp(624): warning C4018: '<': signed/unsigned mismatch
-  EVDict.vcxproj -> D:\EVDict\EVDict\Debug\EVDict.exe
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(295): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(391): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(393): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(399): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(657): warning C4018: '<': signed/unsigned mismatch
+  EVDict.vcxproj -> D:\DoAn2018_EVDict\DoAn2018_EVDict\EVDict\Debug\EVDict.exe

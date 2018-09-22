@@ -11,3 +11,6 @@ adjure
 adjurer
 adjuror
 adjust
+e
+g
+h

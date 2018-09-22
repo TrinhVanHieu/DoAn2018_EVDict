@@ -150,5 +150,11 @@
     <Image Include="..\..\iconToolBar\Delacro-Id-Help.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\iconToolBar\SearchToolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\SToolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

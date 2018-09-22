@@ -1,0 +1,5 @@
+﻿hoa
+hoa
+* Noun
+    - flower
+	+ tôi có một bó hoa (I have a bouquet of flowers).

@@ -1,0 +1,5 @@
+﻿phim
+phim 
+* Noun
+    - movie, cinema
+	+ tôi sẽ đi xem phim vào tối mai (I will go to the cinema tomorrow night).

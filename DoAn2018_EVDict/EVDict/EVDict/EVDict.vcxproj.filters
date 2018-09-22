@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EVDict.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolbarEX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CComboboxEX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CListboxEX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CStatusbarEX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CRicheditEX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EVDict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolbarEX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CComboboxEX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CListboxEX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CStatusbarEX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CRicheditEX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="EVDict.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="EVDict.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\TrinhVanHieu\Desktop\Untitled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\TrinhVanHieu\Desktop\vdbitmap.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\TrinhVanHieu\Desktop\vdbitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\TrinhVanHieu\Desktop\Ebitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="C:\Users\TrinhVanHieu\Desktop\vd1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Ebitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\logo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\LogoUCTnew.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\LogoUTC.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\AnhTN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Cbitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\icontoolbar\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\vd.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Vbitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\CBitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Bbitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\TBitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\XBitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Ubitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Ibitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\fbitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\BoBitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\iCon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Delacro-Id-Help.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿sao
+sao
+* Noun
+    - star
+	+ một ngôi sao (a star).

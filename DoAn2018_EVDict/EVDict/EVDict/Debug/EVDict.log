@@ -1,0 +1,10 @@
+﻿  EVDict.cpp
+d:\evdict\evdict\evdict\evdict.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\evdict\evdict\evdict\evdict.cpp(326): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1258)
+d:\evdict\evdict\evdict\evdict.cpp(326): warning C4566: character represented by universal-character-name '\u00F5' cannot be represented in the current code page (1258)
+d:\evdict\evdict\evdict\evdict.cpp(326): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1258)
+d:\evdict\evdict\evdict\evdict.cpp(358): warning C4018: '<': signed/unsigned mismatch
+d:\evdict\evdict\evdict\evdict.cpp(360): warning C4018: '<': signed/unsigned mismatch
+d:\evdict\evdict\evdict\evdict.cpp(366): warning C4018: '<': signed/unsigned mismatch
+d:\evdict\evdict\evdict\evdict.cpp(624): warning C4018: '<': signed/unsigned mismatch
+  EVDict.vcxproj -> D:\EVDict\EVDict\Debug\EVDict.exe

@@ -1,0 +1,62 @@
+﻿act (n)(v)
+act [ækt]
+* danh từ
+    - việc làm; hành vi; hành động
+	+ act of violence
+		-> hành động bạo lực
+	+ it is an act of kindness/a kind act to help the poor
+		-> giúp đỡ người nghèo là một việc làm/nghĩa cử nhân từ
+	+ this dreadful murder is surely the act of a mad man
+		-> án mạng khủng khiếp này chắc chắn là hành động của một kẻ điên dại
+    - đạo luật
+	+ to pass an act
+		-> thông qua một đạo luật
+	+ act of parliament
+		-> một đạo luật của quốc hội
+    - hồi (một phân đoạn trong một trong vở kịch)
+	+ a play in five acts
+		-> vở kịch năm màn
+    - tiết mục (xiếc, ca múa nhạc...)
+	+ a circus act
+		-> tiết mục xiếc
+	+ a song and dance act
+		-> tiết mục múa hát
+    - sự giả vờ; sự ra vẻ
+	+ Don't believe what she says - it's all an act!
+		-> Đừng tin những điều cô ta nói - tất cả chỉ là vờ vịt thôi!
+* ngoại động từ
+    - đóng (vai) trong một vở kịch, bộ phim...
+	+ to act a part
+		-> đóng một vai
+	+ to act (the part of) Hamlet; to act Hamlet
+		-> đóng vai Hăm-lét
+	+ She's not really insolent - she's just acting the demi-mondaine
+		-> Cô ấy không phải xấc láo thật đâu - cô ấy chỉ đang đóng vai ả giang hồ thôi
+* nội động từ
+    - hành động
+	+ to act like a fool
+		-> hành động như một thằng điên
+	+ you acted wisely by/in telling him the whole truth
+		-> anh đã hành động khôn ngoan khi kể hết sự thật cho ông ấy nghe
+	+ the police refused to act without a search-warrant
+		-> cảnh sát không chịu ra tay khi chưa có lệnh khám nhà
+    - (to act as somebody / something) thực hiện vai trò hoặc nhiệm vụ của ai/cái gì
+	+ to act as interpreter
+		-> làm phiên dịch
+	+ Nobody can drive a car, so I have to act as a driver
+		-> Không ai lái xe được, nên tôi phải làm tài xế vậy
+    - (to act for / on behalf of somebody) hành động nhân danh ai; thay mặt/đại diện ai
+    - (to act on something) tác động/ảnh hưởng đến cái gì
+	+ alcohol acts on the nerves
+		-> rượu có tác động đến thần kinh
+    - đóng kịch; diễn kịch; diễn xuất
+	+ to act very well
+		-> thủ vai rất đạt; diễn xuất rất hay
+    - (to act upon / on something) hành động theo cái gì; làm theo cái gì
+	+ to act on someone's advice
+		-> hành động theo lời khuyên của ai
+    - (to act up to something) hành động cho xứng đáng với cái gì
+	+ to act up to one's reputation
+		-> hành động xứng đáng với thanh danh của mình
+	+ to act up
+		-> gây phiền toái (do vận hành kém, do hỏng hóc..)

@@ -1,0 +1,17 @@
+﻿activity (n)
+activity [æk'tiviti]
+* danh từ
+    - sự tích cực, sự hoạt động, sự nhanh nhẹn, sự linh lợi
+    - (số nhiều) hoạt động
+	+ sport activities
+		-> hoạt động thể thao
+	+ scientific activities
+		-> hoạt động khoa học
+    - phạm vi hoạt động
+	+ within my activities
+		-> trong phạm vi hoạt động của tôi
+    - (vật lý), (hoá học) tính hoạt động, độ hoạt động; tính phóng xạ, độ phóng xạ
+	+ photochemical activity
+		-> tính hoạt động quang hoá
+	+ specific activity
+		-> phóng xạ riêng

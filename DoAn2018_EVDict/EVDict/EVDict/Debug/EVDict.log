@@ -1,8 +1,8 @@
 ﻿  EVDict.cpp
 d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(85): warning C4018: '<': signed/unsigned mismatch
-d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(267): warning C4018: '<': signed/unsigned mismatch
-d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(423): warning C4018: '<': signed/unsigned mismatch
-d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(425): warning C4018: '<': signed/unsigned mismatch
-d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(431): warning C4018: '<': signed/unsigned mismatch
-d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(691): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(266): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(422): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(424): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(430): warning C4018: '<': signed/unsigned mismatch
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(690): warning C4018: '<': signed/unsigned mismatch
   EVDict.vcxproj -> D:\DoAn2018_EVDict\DoAn2018_EVDict\EVDict\Debug\EVDict.exe

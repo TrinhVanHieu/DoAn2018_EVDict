@@ -1,0 +1,35 @@
+﻿action (n)
+action ['æk∫n]
+* danh từ
+    - hành động, hành vi; hoạt động; công việc, việc làm
+	+ a man of action
+		-> con người hành động
+	+ to take prompt action
+		-> hành động tức khắc, hành động kịp thời
+    - tác động, tác dụng, ảnh hưởng
+	+ the sunlight has action on certain materials
+		-> ánh nắng có tác động đến một số chất
+	+ action of acid
+		-> tác dụng của axit
+    - sự chiến đấu, trận đánh
+	+ to go into action
+		-> bắt đầu đánh nhau, bắt đầu chiến đấu
+	+ to break off an action
+		-> ngừng chiến đấu, ngừng bắn
+	+ to be killed in action
+		-> bị hy sinh trong chiến đấu
+	+ to be put out of action
+		-> bị loại khỏi vòng chiến đấu
+    - việc kiện cáo, việc tố tụng
+	+ to take/bring an action against somebody
+		-> kiện ai
+    - (pháp lý) quyền đi kiện; tố quyền
+    - sự diễn biến, quá trình diễn biến (của vở kịch)
+    - động tác, dáng điệu, bộ điệu, bộ tịch
+	+ action of a player
+		-> bộ điệu của một diễn viên
+	+ action of a horse
+		-> dáng đi của một con ngựa
+    - bộ máy, cơ cấu (đàn pianô, máy...); sự hoạt động của bộ máy
+* ngoại động từ
+    - kiện, thưa kiện

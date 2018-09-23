@@ -1,0 +1,28 @@
+﻿address (n)(v)
+address [ə'dres]
+* danh từ
+    - địa chỉ
+	+ my home/business address is 191 Hoang Van Thu Street
+		-> địa chỉ nhà/cơ quan của tôi là 191 phố Hoàng Văn Thụ
+    - bài nói chuyện; bài diễn văn
+    - (số nhiều) lời tỏ tình; lời tán tỉnh
+	+ to pay one's addresses to a lady
+		-> tán tỉnh một bà, tỏ tình với một bà
+* ngoại động từ
+    - (to address something to somebody / something) đề địa chỉ
+	+ to address a letter
+		-> đề địa chỉ trên một bức thư
+	+ the postcard was wrongly addressed to (us at) our old home
+		-> bưu thiếp gửi chúng tôi đề sai địa chỉ vào nhà cũ của chúng tôi
+    - (to address something to somebody / something) gửi thẳng (lời nhận xét, lời tuyên bố) đến ai/vật gì
+	+ please address all comments to the director-general
+		-> xin vui lòng gửi mọi thắc mắc đến tổng giám đốc
+    - (to address somebody as something) dùng (tên riêng hoặc chức tước) khi nói hoặc viết cho ai
+	+ Don't address me as ' Major-general ': I'm only a colonel
+		-> Đừng gọi tôi là 'Thiếu tướng': Tôi chỉ mới là đại tá thôi
+    - đọc một bài diễn văn, nói chuyện (với một người hoặc đám đông) một cách trang trọng
+	+ The chairwoman will now address the meeting
+		-> Bây giờ bà chủ tịch sẽ nói chuyện với hội nghị
+    - (to address oneself to something) chú tâm/chuyên tâm vào điều gì
+    - (thể dục,thể thao) nhằm vào (quả bóng) trong trò đánh cầu
+    - (tin học) trữ hoặc lấy ra (một mẩu tin) bằng cách dùng bảng hướng dẫn

@@ -18,10 +18,10 @@ CToolbarEX::~CToolbarEX()
 
 HWND CToolbarEX::CreateMainFrame(HWND hWnd, HINSTANCE hInst)
 {
-	int nImagelist[11];
+	int nImagelist[10];
 	HIMAGELIST hImagelist;
 	HBITMAP hbmp;
-	const int NUMBERBUTTONS = 11;
+	const int NUMBERBUTTONS = 10;
 
 	//Tao toolbar
 	HWND hWndToolbar;
@@ -62,20 +62,20 @@ HWND CToolbarEX::CreateMainFrame(HWND hWnd, HINSTANCE hInst)
 	nImagelist[6] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
 	DeleteObject(hbmp);
 
-	hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_SToolbar));
+	/*hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_SToolbar));
+	nImagelist[7] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
+	DeleteObject(hbmp);*/
+
+	hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_IToolbar));
 	nImagelist[7] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
 	DeleteObject(hbmp);
 
-	hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_IToolbar));
+	hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_CToolbar));
 	nImagelist[8] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
 	DeleteObject(hbmp);
 
-	hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_CToolbar));
-	nImagelist[9] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
-	DeleteObject(hbmp);
-
 	hbmp = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_FToolbar));
-	nImagelist[10] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
+	nImagelist[9] = ImageList_Add(hImagelist, hbmp, (HBITMAP)NULL);
 	DeleteObject(hbmp);
 
 	SendMessage(hWndToolbar, TB_SETIMAGELIST, (WPARAM)0, (LPARAM)hImagelist);
@@ -91,10 +91,10 @@ HWND CToolbarEX::CreateMainFrame(HWND hWnd, HINSTANCE hInst)
 		{nImagelist[4], ID_MENU_DELETE, TBSTATE_ENABLED, TBSTYLE_BUTTON},
 		{nImagelist[5], ID_FORMAT_B, TBSTATE_ENABLED, TBSTYLE_BUTTON},
 		{nImagelist[6], ID_FORMAT_U, TBSTATE_ENABLED, TBSTYLE_BUTTON},
-		{nImagelist[7], ID_FORMAT_S, TBSTATE_ENABLED, TBSTYLE_BUTTON},
-		{nImagelist[8], ID_FORMAT_I, TBSTATE_ENABLED, TBSTYLE_BUTTON},
-		{nImagelist[9], ID_FORMAT_C, TBSTATE_ENABLED, TBSTYLE_BUTTON},
-		{nImagelist[10], ID_FORMAT_FONT, TBSTATE_ENABLED, TBSTYLE_BUTTON},
+		//{nImagelist[7], ID_FORMAT_S, TBSTATE_ENABLED, TBSTYLE_BUTTON},
+		{nImagelist[7], ID_FORMAT_I, TBSTATE_ENABLED, TBSTYLE_BUTTON},
+		{nImagelist[8], ID_FORMAT_C, TBSTATE_ENABLED, TBSTYLE_BUTTON},
+		{nImagelist[9], ID_FORMAT_FONT, TBSTATE_ENABLED, TBSTYLE_BUTTON},
 	};
 	SendMessage(hWndToolbar, (UINT)TB_ADDBUTTONS, NUMBERBUTTONS, (LPARAM)&tbb);
 

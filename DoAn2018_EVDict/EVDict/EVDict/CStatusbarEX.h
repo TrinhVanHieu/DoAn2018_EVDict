@@ -1,5 +1,5 @@
 #pragma once
-#define IDC_MAIN_STATUS 1003
+#define IDC_MAIN_STATUS 2003
 class CStatusbarEX
 {
 public:

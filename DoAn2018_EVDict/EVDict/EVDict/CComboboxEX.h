@@ -1,5 +1,5 @@
 #pragma once
-#define IDC_MAIN_COMBOBOX 1010
+#define IDC_MAIN_COMBOBOX 2010
 class CComboboxEX
 {
 public:

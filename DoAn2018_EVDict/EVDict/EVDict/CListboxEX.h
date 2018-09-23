@@ -1,4 +1,4 @@
-#define IDC_MAIN_LISTBOX 1011
+#define IDC_MAIN_LISTBOX 2011
 #pragma once
 class CListboxEX
 {

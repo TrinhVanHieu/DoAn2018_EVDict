@@ -1,11 +1,10 @@
 #pragma once
 
-#define IDC_MAIN_TOOL 1001
-#define ID_FORMAT_B 1004
-#define ID_FORMAT_U 1005
-#define ID_FORMAT_I 1006
-#define ID_FORMAT_C 1007
-#define ID_FORMAT_S 1008
+#define IDC_MAIN_TOOL 2001
+#define ID_FORMAT_B 2004
+#define ID_FORMAT_U 2005
+#define ID_FORMAT_I 2006
+#define ID_FORMAT_C 2007
 #pragma comment (lib, "comctl32.lib") 
 class CToolbarEX
 {

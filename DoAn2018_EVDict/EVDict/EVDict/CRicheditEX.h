@@ -1,5 +1,5 @@
 #pragma once
-#define IDC_MAIN_EDIT 1002
+#define IDC_MAIN_EDIT 2002
 class CRicheditEX
 {
 public:

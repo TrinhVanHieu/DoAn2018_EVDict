@@ -1,0 +1,79 @@
+﻿age (n)(v)
+age [eidʒ]
+* danh từ
+    - tuổi
+	+ what age are you?
+		-> anh bao nhiêu tuổi?
+	+ he's twenty years of age/twenty years old
+		-> anh ta hai mươi tuổi
+	+ their ages are ten and twelve
+		-> tuổi của chúng nó là 10 và 12
+	+ at what age did she retire?
+		-> bà ta về hưu lúc mấy tuổi?
+	+ I left school at the age of 18
+		-> tôi thôi học năm 18 tuổi
+	+ when I was your age...
+		-> hồi tôi bằng tuổi anh...
+	+ we have a son your age
+		-> chúng tôi có một đứa con trai bằng tuổi anh
+	+ he lived to a great age
+		-> ông ấy sống rất thọ
+	+ he's the same age as my eldest brother
+		-> anh ta bằng tuổi anh cả của tôi
+	+ geologists have calculated the age of the earth
+		-> các nhà địa chất học đã tính được tuổi của trái đất
+	+ the age/years of discretion
+		-> tuổi khôn, tuổi biết suy xét rồi (14 tuổi)
+	+ at the tender age/of tender age
+		-> trẻ tuổi và chưa chín chắn; trẻ người non dạ
+	+ the awkward age
+		-> tuổi mới lớn
+	+ over age
+		-> quá tuổi quy định
+	+ age limit
+		-> giới hạn tuổi
+	+ anyone can enter the contest - there's no age limit
+		-> ai tham gia cuộc thi cũng được - không có giới hạn tuổi
+    - tuổi già, tuổi tác
+	+ the wisdom that comes with age
+		-> sự khôn ngoan đến với tuổi già
+	+ his face was wrinkled with age
+		-> mặt ông ta nhăn nheo vì tuổi già
+	+ fine wine improves with age
+		-> rượu ngon càng để lâu càng ngon
+	+ back bent with age
+		-> lưng còng vì tuổi tác
+    - thời đại, thời kỳ
+	+ the bronze age
+		-> thời kỳ đồ đồng
+	+ the golden age
+		-> thời kỳ hoàng kim
+	+ the Elizabethan age
+		-> thời Elizabeth
+	+ the modern/nuclear age
+		-> thời hiện đại/thời đại hạt nhân
+	+ the age of the microchip
+		-> thời đại máy tính điện tử
+    - (số nhiều) thời gian rất dài
+	+ I waited for ages
+		-> tôi đã đợi hàng bao nhiêu năm
+	+ it took us ages to find a place to park
+		-> chúng tôi đã tốn rất nhiều thời gian để tìm chỗ đỗ xe ô tô
+    - to be/come of age: đến tuổi trưởng thành
+	+ under age: chưa đến tuổi trưởng thành
+		+ you shouldn't sell cigarettes to teenagers who are under age/to under age teenagers
+			-> anh không nên bán thuốc lá cho thanh thiếu niên chưa đến tuổi trưởng thành
+* ngoại động từ
+    - làm cho già cỗi
+	+ worry aged my mother rapidly
+		-> sự lo lắng khiến cho mẹ tôi mau già
+	+ I found her greatly aged
+		-> tôi thấy bà ấy già đi nhiều
+    - làm cho chín, ngấu
+* nội động từ
+    - già đi, cho thấy dấu hiệu già đi
+	+ he's aged a lot recently
+		-> gần đây ông ta đã già đi nhiều
+	+ she's aging/ageing gracefully
+		-> bà ta già đi mà vẫn duyên dáng
+    - chín, ngấu

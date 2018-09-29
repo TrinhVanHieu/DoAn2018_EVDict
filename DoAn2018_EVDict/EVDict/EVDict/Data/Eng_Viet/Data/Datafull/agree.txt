@@ -1,0 +1,48 @@
+﻿agree (v)
+agree [ə'gri:]
+* nội động từ
+    - (to agree to something) bằng lòng, đồng ý cái gì
+	+ I asked for a pay rise and she agreed
+		-> tôi đề nghị tăng lương và bà ấy đã đồng ý
+	+ is he going to agree to our suggestion?
+		-> liệu ông ấy có tán thành lời gợi ý của chúng ta hay không?
+	+ he agreed to let me go home early
+		->  ông ấy bằng lòng để tôi về nhà sớm
+    - (to agree with somebody about / on something) đồng ý với ai về điều gì
+	+ when he said that, I had to agree
+		-> anh ta nói vậy thì tôi phải đồng ý
+	+ do you agree with me about the need for more schools?
+		-> anh có đồng ý với tôi về việc cần có thêm trường học hay không?
+	+ we couldn't agree on a date/agree when to meet
+		-> chúng tôi không thoả thuận được với nhau về ngày gặp/không thoả thuận được với nhau là khi nào sẽ gặp nhau
+	+ we agreed to start early
+		-> chúng tôi đồng ý với nhau sẽ bắt đầu sớm
+	+ do we all agree that the proposal is a good one?
+		-> tất cả chúng ta có đồng ý với nhau rằng đề nghị này là một đề nghị tốt hay không?
+    - (to agree with something) phù hợp với, khớp với
+	+ the two accounts do not agree
+		-> hai bản kế toán này không khớp nhau
+	+ your account of the affair does not agree with mine
+		-> bản tường trình của anh về việc này không khớp với bản tường trình của tôi
+    - (to agree with somebody) (nhất là trong câu phủ định và câu hỏi) phù hợp với sức khoẻ hoặc sự tiêu hoá của ai
+	+ the humid climate didn't agree with him
+		-> khí hậu ẩm không thích hợp với anh ấy
+	+ I like mushrooms but unfortunately, they don't agree with me
+		-> tôi thích nấm, nhưng tiếc là nấm lại không hợp với tôi
+    - vui vẻ với nhau, hoà thuận với nhau
+	+ brothers and sisters never seem to agree (together)
+		-> dường như anh em, chị em chẳng bao giờ hoà thuận với nhau
+    - (ngôn ngữ học) phù hợp (với một từ hoặc cụm từ) về số, ngôi...
+	+ the verb agrees with its subject in number and person
+		-> động từ phù hợp với chủ ngữ của nó về số và ngôi
+* ngoại động từ
+    - đạt tới cùng một ý kiến về điều gì; thoả thuận
+	+ can we agree a price?
+		-> chúng ta có thể thoả thuận với nhau về một cái giá nào đó hay không?
+	+ they met at the agreed time
+		-> họ gặp nhau vào thời điểm đã thoả thuận
+    - chấp nhận cái gì là đúng; tán thành
+	+ the tax inspector agreed the figures
+		-> viên thanh tra thuế tán thành các số liệu báo cáo
+	+ next year's budget has been agreed
+		-> ngân sách cho sang năm đã được chấp nhận

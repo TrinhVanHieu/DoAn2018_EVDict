@@ -1,0 +1,18 @@
+﻿agent (n)
+agent ['eidʒənt]
+* danh từ
+    - người hoạt động cho một doanh nghiệp hoặc quản lý công việc của người khác trong một doanh nghiệp; đại lý
+	+ a travel agent
+		-> đại lý của công ty du lịch
+	+ an insurance agent
+		-> nhân viên bảo hiểm
+    - tác nhân; chất
+	+ physical agent
+		-> tác nhân vật lý
+	+ chemical agent
+		-> tác nhân hoá học
+	+ catalytic agent
+		-> chất xúc tác
+	+ fireproof agent
+		-> chất chịu lửa
+    - nhân viên mật vụ; đặc vụ; trinh thám

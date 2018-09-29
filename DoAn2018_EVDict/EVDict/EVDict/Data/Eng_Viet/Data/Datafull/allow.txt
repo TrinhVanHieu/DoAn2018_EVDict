@@ -1,0 +1,67 @@
+﻿allow (v)
+allow [ə'lau]
+* ngoại động từ
+    - cho phép ai/cái gì làm cái gì
+	+ my boss doesn't allow me to use the telephone
+		-> ông chủ tôi không cho phép tôi dùng điện thoại
+	+ passengers are not allowed to smoke
+		-> hành khách không được phép hút thuốc lá
+	+ to allow oneself to do something
+		-> tự cho phép mình làm điều gì
+    - để cho (cái gì) được làm hoặc xảy ra
+	+ we don't allow smoking in our house
+		-> chúng tôi không cho phép hút thuốc lá trong nhà chúng tôi
+	+ smoking is not allowed here
+		-> không được hút thuốc lá ở đây
+	+ photography is not allowed in this theatre
+		-> không được phép chụp ảnh trong nhà hát này
+	+ she allowed her mind to wander
+		-> cô ta để cho tâm trí nghĩ vớ vẩn
+    - cho phép ai/cái gì vào
+	+ Dogs not allowed/No dogs allowed
+		-> Chó không được vào/Không cho chó vào
+    - (to allow something to somebody) để cho ai có được cái gì; cho phép
+	+ this diet allows you one glass of wine a day
+		-> chế độ ăn kiêng này cho phép anh uống mỗi ngày một cốc rượu vang
+	+ I'm not allowed visitors
+		-> tôi không được phép tiếp khách
+	+ he allowed his imagination full play
+		-> anh ta để mặc cho trí tưởng tượng tha hồ phiêu diêu
+	+ I'll not allow you to be ill-treated
+		-> tôi sẽ không để cho anh bị ngược đãi đâu
+	+ to allow 5 per cent for breakage
+		-> cho phép gãy vỡ 5 phần trăm
+    - (to allow something for somebody / something) cấp phát; để riêng ra
+	+ to allow four sandwiches each/per head
+		-> phát bốn chiếc bánh cặp thịt cho mỗi đầu người
+	+ you must allow three metres for a long-sleeved dress
+		-> bà phải dành ra ba mét cho một chiếc áo dài tay
+    - thừa nhận, công nhận, chấp nhận
+	+ the judge allowed my claim
+		-> quan toà chấp nhận yêu sách của tôi
+	+ he allowed that I had the right to appeal
+		-> ông ta thừa nhận tôi có quyền chống án
+	+ even if we allow that the poet was mad
+		-> dù ta cứ cho rằng nhà thơ ấy điên chăng nữa....
+	+ many allow him to be the leading artist in his field
+		-> nhiều người thừa nhận ông ta là nghệ sĩ hàng đầu trong lĩnh vực của ông ta
+	+ to allow a request
+		-> chấp đơn
+* nội động từ
+    - (to allow for somebody / something) kể đến, tính đến; chiếu cố đến, chú ý đến
+	+ to allow for the delays caused by bad weather
+		-> tính đến sự chậm trễ do thời tiết xấu gây ra
+	+ after allowing for...
+		-> sau khi đã tính đến...
+    - (to allow of something) cho phép cái gì; dành chỗ cho cái gì
+	+ the question allows of no dispute
+		-> vấn đề không cho phép bàn cãi gì cả
+	+ I can't allow of this noise going on
+		-> tôi không thể chịu được cái tiếng ầm ỹ ấy cứ kéo dài mãi
+	+ the facts allow of only one explanation
+		-> các sự kiện chỉ cho phép đưa ra một cách giải thích duy nhất
+    - (to allow somebody in / out / up) cho phép ai vào/rời đi/đứng dậy
+	+ she won't allow children in (to the house) until they've wiped their shoes
+		-> trẻ con chưa chùi sạch giày thì chưa được bà ấy cho vào nhà
+	+ the patient was allowed up after days
+		-> sau mưới ngày, bệnh nhân được phép dậy

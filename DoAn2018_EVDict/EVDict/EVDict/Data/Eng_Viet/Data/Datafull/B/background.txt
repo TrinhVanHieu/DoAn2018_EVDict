@@ -1,0 +1,19 @@
+﻿background (n)
+background ['bækgraund]
+* danh từ
+    - phần trong một cảnh quan, cảnh trí hoặc bảng miêu tả làm nền cho những vật hoặc những người chính; nền; hậu cảnh
+	+ a dress with red spots on a white background
+		-> áo nền trắng chấm đỏ
+	+ background music
+		-> nhạc nền
+    - tình hình và sự kiện vây quanh và làm ảnh hưởng cái gì; bối cảnh
+	+ these political developments should be seen against a background of increasing East -West tension
+		-> những diễn biến chính trị này phải được xem xét trong bối cảnh sự căng thẳng Đông-Tây ngày càng tăng lên
+	+ background information
+		-> thông tin cơ sở
+    - tầng lớp xã hội, sự giáo dục, đào tạo của một người; lai lịch
+	+ He has a working class background
+		-> anh ta thuộc tầng lớp công nhân
+    - thông tin cần thiết để hiểu một vấn đề
+	+ can you give me more background on the company's financial position?
+		-> bạn có thể cho tôi biết thêm thông tin cơ bản về tình hình tài chính của công ty hay không?

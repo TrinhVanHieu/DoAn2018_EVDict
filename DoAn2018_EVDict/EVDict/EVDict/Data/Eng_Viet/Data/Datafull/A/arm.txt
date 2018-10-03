@@ -1,0 +1,62 @@
+﻿arm (n)
+arm [a:m]
+* danh từ
+    - cánh tay
+	+ she held the baby in her arms
+		-> cô ta ôm đứa bé trong tay
+	+ he gave her his arm as they crossed the road
+		-> anh ta đưa tay cho cô ấy khoác khi họ đi ngang qua đường
+	+ he rushed into her arms
+		-> nó vào tay của cô ta (để được ôm hôn)
+	+ to carry a book under one's arm
+		-> cặp cuốn sách dưới nách (giữa cánh tay và thân mình)
+	+ babe in arms
+		-> đứa bé còn nhỏ, chưa đi hoặc bò được; bé ẵm
+    - ống tay áo
+	+ there's a tear in the arm of my jacket
+		-> có một chỗ rách trên ống tay áo khoác ngoài của tôi
+    - cái có hình như cánh tay hoặc hoạt động như cánh tay; nhánh
+	+ the arms of a chair
+		-> những tay ghế
+	+ an arm of the sea
+		-> một nhánh biển (lạch dài giữa hai hòn đảo)
+	+ an arm of a tree
+		-> một nhánh cây
+	+ the (pick-up) arm of a record-player
+		-> cái cần của một máy quay đĩa
+    - ngành hoặc chủng loại của lực lượng quân sự một nước; quân chủng
+	+ troops supported by the air arm
+		-> đoàn quân được không quân yểm trợ
+	+ infantry arm
+		-> lục quân
+arm [ɑ:mz]
+* danh từ số nhiều
+    - súng ống; vũ khí
+	+ arms and ammunition
+		-> vũ khí và đạn dược
+	+ policemen on special duties may carry arms
+		-> cảnh sát làm nhiệm vụ đặc biệt có thể mang vũ khí
+	+ arms depot
+		-> kho vũ khí
+    - sự phục vụ trong quân ngũ; binh nghiệp
+	+ to bear arms
+		-> phục vụ trong quân ngũ
+	+ to receive a call to arms
+		-> nhận được lệnh nhập ngũ
+	+ arms race
+		-> cuộc chạy đua vũ trang
+* động từ
+    - (to arm oneself / somebody with something) trang bị vũ khí cho bản thân/ai; chuẩn bị chiến đấu
+	+ to arm each platoon with two machine-guns
+		-> trang bị cho mỗi trung đội hai khẩu súng máy
+	+ the enemy is arming
+		-> quân địch đang chuẩn bị chiến đấu
+	+ the mob armed themselves with sticks and stones
+		-> đám đông tự vũ trang bằng gậy và đá
+	+ police say the man is armed and dangerous
+		-> cảnh sát nói rằng người đó có vũ khí và rất nguy hiểm
+	+ warships armed with nuclear weapons
+		-> chiến hạm có trang bị vũ khí hạt nhân
+	+ she arrived at the interview armed with lists of statistics
+		-> bà ta đến phỏng vấn, mang theo nhiều bản thống kê
+    - lên đạn (súng), tháo chốt (lựu đạn)

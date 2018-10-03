@@ -1,0 +1,25 @@
+﻿available (adj)
+available [ə'veiləbl]
+* tính từ
+    - sẵn có để dùng, sẵn sàng để dùng, có thể dùng được
+	+ by all available means
+		-> bằng mọi phương tiện sẵn có
+	+ available funds
+		-> vốn sẵn có để dùng, vốn tự có
+    - có thể kiếm được, có thể mua được
+	+ this book is not available
+		-> quyển sách này không thể mua được (không thể kiếm đâu ra được)
+	+ tickets are available at the box office
+		-> vé có thể mua được ở quầy bán vé
+	+ you will be informed when the book becomes available
+		-> khi nào có sách anh sẽ được thông báo
+	+ that was the only available room
+		-> đó là căn phòng duy nhất có thể kiếm được
+    - có hiệu lực, có giá trị
+	+ ticket available for one day only
+		-> chỉ có giá trị trong một ngày
+    - (nói về người) rỗi để được gặp, được nói chuyện với....
+	+ I'm available in the afternoon
+		-> Tôi rỗi vào buổi chiều
+	+ The Prime Minister was not available for comment
+		-> Ngài Thủ tướng không sẵn sàng bình luận

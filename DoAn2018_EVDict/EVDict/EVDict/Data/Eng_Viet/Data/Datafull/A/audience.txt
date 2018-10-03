@@ -1,0 +1,17 @@
+﻿audience (n)
+audience ['ɔ:djəns]
+* danh từ
+    - nhóm người tụ hội lại với nhau để nghe hoặc xem ai/cái gì; khán giả; thính giả; cử toạ
+	+ the audience was/were enthusiastic on the opening night of the play
+		-> khán giả hân hoan đón tiếp buổi tối mở màn diễn vở kịch
+	+ an audience of millions watched the royal wedding on TV
+		-> một cử toạ hàng triệu người xem lễ cưới hoàng gia trên ti vi
+	+ his books reached an even wider audience when it was filmed for television
+		-> quyển sách của ông ta càng có thêm nhiều người đọc khi quay phim để đưa lên truyền hình
+	+ she has addressed audiences all over the country
+		-> bà ta đã diễn thuyết trước các thính giả khắp cả nước
+    - sự yết kiến; sự tiếp kiến
+	+ to request an audience with the Queen
+		-> xin yết kiến Nữ hoàng
+	+ to grant a private audience to a foreign ambassador
+		-> dành một buổi tiếp kiến riêng cho một đại sứ nước ngoài

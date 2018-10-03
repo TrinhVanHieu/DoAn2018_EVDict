@@ -1,0 +1,34 @@
+﻿assume (v)
+assume [ə'sju:m]
+* ngoại động từ
+    - cho rằng; thừa nhận
+	+ We cannot assume anything in this case
+		-> Chúng tôi không thể thừa nhận điều gì trong vụ này
+	+ I'm assuming that the present situation is going to continue
+		-> Tôi cho rằng tình hình này sẽ còn tiếp diễn
+	+ We must assume him to be innocent until he is proved guilty
+		-> Chúng tôi phải coi anh ấy là người vô tội đến khi nào chứng minh được rằng anh ấy có tội
+	+ We can all leave together - assuming (that) the others aren't late
+		-> Chúng ta có thể cùng ra đi - giả sử là những người khác không đến muộn
+	+ let's assume that this is true
+		-> chúng ta hãy cho điều này là đúng
+    - mang, khoác, có, lấy (cái vẻ, tính chất...)
+	+ his illness assumes a very grave character
+		-> bệnh của anh ta có vẻ nặng
+	+ the problem is beginning to assume massive proportions
+		-> vấn đề này đang bắt đầu mang một tầm cỡ lớn
+    - làm ra vẻ, giả bộ
+	+ to assume a look of innocence
+		-> làm ra vẻ ngây thơ
+	+ to assume ignorance
+		-> làm ra vẻ như mình không biết; giả vờ dốt
+	+ to assume indifference/an air of concern
+		-> làm ra vẻ thờ ơ/quan tâm
+    - nắm lấy, chiếm lấy
+	+ to assume power
+		-> nắm chính quyền
+    - đảm đương, gánh vác, nhận vào mình
+	+ to assume office
+		-> đảm đương nhiệm vụ
+	+ to assume responsibility
+		-> gánh vác trách nhiệm; chịu trách nhiệm

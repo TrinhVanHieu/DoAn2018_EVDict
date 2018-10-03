@@ -1,0 +1,21 @@
+﻿attack (n)(v)
+attack [ə'tæk]
+* danh từ
+    - sự tấn công, sự công kích
+	+ to make an attack on enemy positions
+		-> tấn công các vị trí địch
+    - cơn (bệnh)
+	+ an attack of fever
+		-> cơn sốt
+	+ a heart attack
+		-> cơn đau tim
+* ngoại động từ
+    - tấn công, công kích
+    - bắt đầu, bắt tay vào, lao vào (công việc)
+	+ to attack a task
+		-> bắt tay vào việc, lao vào việc
+    - ăn mòn (axit)
+	+ strong acids attack metals
+		-> axit mạnh ăn mòn kim loại
+* nội động từ
+    - tấn công, bắt đầu chiến sự

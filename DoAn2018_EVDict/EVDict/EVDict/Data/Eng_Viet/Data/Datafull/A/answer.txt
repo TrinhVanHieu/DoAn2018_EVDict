@@ -1,0 +1,55 @@
+﻿answer (n)(v)
+answer ['ɑ:nsə]
+* danh từ
+    - (answer to somebody / something) sự trả lời; câu trả lời; thư trả lời
+	+ the answer he gave was quite astonishing
+		-> câu trả lời nó đưa ra thật đáng kinh ngạc
+	+ have you had an answer to your letter?
+		-> thư của anh đã được họ trả lời chưa?
+	+ I rang the bell but there was no answer
+		-> Tôi rung chuông nhưng chẳng thấy trả lời
+	+ in answer to someone's letter
+		-> để trả lời thư của ai
+    - sự giải đáp, lời giải đáp
+	+ this could be the answer to all our problems
+		-> cái này có thể là lời giải đáp cho mọi vấn đề của chúng ta
+	+ who knows the answer to this question?
+		-> ai biết cách giải đáp vấn đề này?
+    - (thể dục,thể thao) miếng đánh trả (đấu kiếm)
+    - (toán học) đáp số
+	+ the answer to 3x17 is 51
+* động từ
+    - trả lời; đáp lại
+	+ think carefully before you answer
+		-> hãy suy nghĩ kỹ trước khi trả lời
+	+ to answer the question/teacher
+		-> trả lời câu hỏi/thầy giáo
+	+ to answer the door
+		-> ra mở cửa (sau khi nghe ai gõ cửa hoặc bấm chuông)
+	+ to answer the telephone
+		-> trả lời điện thoại
+	+ nobody answered my call for help
+		-> không ai đáp lại lời kêu cứu của tôi
+	+ she answered that she would apologize to her parents
+		-> cô ta trả lời rằng cô ta sẽ xin lỗi bố mẹ
+    - xứng với, đáp ứng, thoả mãn
+	+ to answer somebody's purpose/needs
+		-> đáp ứng ý đồ/nhu cầu của ai
+    - thành công, có kết quả
+	+ his plan won't answer
+		-> kế hoạch của nó sẽ không thành
+    - (to answer for somebody / something) chịu trách nhiệm hoặc bị khiển trách về điều gì; nóithay mặt cho ai hoặc để ủng hộ cái gì
+	+ he has a lot to answer for
+		-> nó có rất nhiều điều đáng bị khiển trách
+	+ to answer for one's crime
+		-> chịu trách nhiệm về tội ác do mình gây ra
+	+ I agree but I can't answer for my parents
+		-> Tôi đồng ý, nhưng tôi không thể thay mặt cho bố mẹ tôi được
+	+ Do you answer for his honesty?
+		-> Anh có bảo đảm sự trung thực của ông ta hay không?; Anh có bảo đảm là ông ta trung thực hay không?
+    - (to answer to somebody for something) chịu trách nhiệm trước ai về điều gì
+	+ you will answer to your director for any damage caused by your own men
+		-> anh phải chịu trách nhiệm với giám đốc về mọi thiệt hại do người của anh gây ra
+    - (to answer to something) chịu sự điều khiển của...
+	+ the bulldozer answered smoothly to the controls
+		-> chiếc xe ủi đất ngoan ngoãn tuân theo sự điều khiển của tài xế

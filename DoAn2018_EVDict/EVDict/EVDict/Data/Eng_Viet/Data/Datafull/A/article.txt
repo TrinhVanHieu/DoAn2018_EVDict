@@ -1,0 +1,31 @@
+﻿article (n)
+article ['ɑ:tikl]
+* danh từ
+    - bài báo
+	+ leading article
+		-> bài xã luận
+    - điều khoản (trong hiệp định hoặc hợp đồng)
+	+ articles of apprenticeship
+		-> điều khoản học việc (trong giao kèo)
+	+ article of faith
+		-> tín điều
+    - đồ, thức, vật phẩm; hàng
+	+ articles of daily necessity
+		-> những thức cần thiết cho đời sống hằng ngày
+	+ articles of clothing
+		-> đồ mặc
+	+ toilet articles
+		-> đồ dùng vệ sinh (xà phòng, thuốc đánh răng; kem cạo râu...)
+	+ luxury articles
+		-> hàng hoá xa xỉ; xa xỉ phẩm
+    - (ngôn ngữ học) mạo từ
+	+ definite article
+		-> mạo từ hạn định
+	+ indefinite article
+		-> mạo từ bất định
+* ngoại động từ
+    - (to article somebody to somebody) dùng ai theo hợp đồng như một người tập sự
+	+ an articled clerk
+		-> thư ký tập sự theo hợp đồng
+	+ articled to a solicitor
+		-> ký hợp đồng làm tập sự cho một luật sư

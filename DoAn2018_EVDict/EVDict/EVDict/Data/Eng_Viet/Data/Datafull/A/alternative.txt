@@ -1,0 +1,19 @@
+﻿alternative (adj)(n)
+alternative [ɔ:l'tə:nətiv]
+* tính từ
+    - có thể chọn để thay cho một vật khác; khác
+	+ to find alternative means of transport
+		-> tìm ra một phương tiện vận chuyển khác
+	+ have you got an alternative suggestion?
+		-> anh có đề nghị nào khác không?
+	+ the alternative book for the examination is "War and Peace"
+		-> cuốn sách thứ hai có thể chọn để học thi là " Chiến tranh và Hoà bình"
+* danh từ
+    - sự lựa chọn giữa hai hoặc nhiều khả năng
+	+ you've the alternative of marrying or remaining a bachelor
+		-> anh có thể lựa chọn giữa hai cách: hoặc lấy vợ hoặc tiếp tục sống độc thân
+	+ caught in the act, he had no alternative but to confess
+		-> bị bắt quả tang, nó không còn cách lựa chọn nào khác là phải thú nhận
+    - một trong hai hoặc nhiều khả năng
+	+ one of the alternatives open to you is to resign
+		-> một trong những giải pháp anh có thể chọn là xin từ chức

@@ -1,0 +1,17 @@
+﻿area (n)
+area ['eəriə]
+* danh từ
+    - diện tích, bề mặt
+	+ area under crop
+		-> diện tích trồng trọt
+	+ area of bearing
+		-> (kỹ thuật) mặt tì, mặt đỡ
+    - vùng, khu vực
+	+ residential area
+		-> khu vực nhà ở, khu dân cư
+    - khoảng đất trống
+    - sân trước nhà ở (có hàng rào cách vỉa hè đường)
+    - phạm vi, tầm
+	+ wide area of knowledge
+		-> tầm hiểu biết rộng
+    - (rađiô) vùng

@@ -1,0 +1,23 @@
+﻿argument (n)
+argument ['ɑ:gjumənt]
+* danh từ
+    - lý lẽ, luận cứ
+	+ there are strong arguments for and against capital punishment
+		-> có những lý lẽ mạnh mẽ ủng hộ và phản đối án tử hình
+	+ weak argument
+		-> lý lẽ không vững
+    - chủ đề (của một cuốn sách...)
+    - sự không đồng ý; sự tranh luận; sự cãi nhau
+	+ a matter of argument
+		-> một vấn đề tranh luận
+	+ we agreed without much further argument
+		-> chúng tôi đồng ý mà không tranh luận gì thêm
+	+ to get into/have an argument with the referee (about his decision)
+		-> cãi nhau với trọng tài (về quyết định của ông ta)
+	+ most families have arguments over money
+		-> phần lớn các gia đình đều có những cuộc cãi nhau về tiền bạc
+	+ the argument turned into a fight when knives were produced
+		-> cuộc cãi lộn đã biến thạnhcuôc đánh nhau khi dao đã được rút ra
+    - (toán học) Agumen, đối số
+	+ argument of a vector
+		-> agumen của một vectơ

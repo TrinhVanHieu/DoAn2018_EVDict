@@ -1,5 +1,1 @@
-﻿sao
-sao
-* Noun
-    - star
-	+ một ngôi sao (a star).
+﻿sao (noun)	+ a star	+ 2 stars	+ 3 stars	+ 4 stars

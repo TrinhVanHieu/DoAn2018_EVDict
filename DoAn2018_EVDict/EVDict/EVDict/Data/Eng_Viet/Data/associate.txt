@@ -1,0 +1,27 @@
+﻿associate (n)(adj)
+associate [ə'sou∫iit]
+* tính từ
+    - kết giao, kết hợp liên hợp; liên đới
+	+ associate societies
+		-> hội liên hiệp
+	+ associate number
+		-> (toán học) số liên đới
+    - (từ Mỹ,nghĩa Mỹ) cùng cộng tác, phụ, phó, trợ
+	+ associate editor
+		-> phó tổng biên tập
+* danh từ
+    - bạn đồng liêu, người cùng cộng tác; đồng minh
+    - hội viên thông tin, viện sĩ thông tấn (viện hàn lâm khoa học...)
+    - vật phụ thuộc vào vật khác; vật liên kết với vật khác
+* ngoại động từ
+    - kết giao, kết hợp, liên hợp, liên kết; cho gia nhập, cho cộng tác
+	+ to associate someone in one's business
+		-> cho ai cùng cộng tác trong công việc kinh doanh
+    - liên tưởng (những ý nghĩ)
+	+ to associate oneself in
+		-> dự vào, cùng cộng tác vào
+* nội động từ
+    - kết giao, kết bạn với, giao thiệp với
+    - hợp sức; liên hợp lại (vì mục đích chung), liên kết lại
+	+ to associate with someone in doing something
+		-> hợp sức với người nào làm việc gì

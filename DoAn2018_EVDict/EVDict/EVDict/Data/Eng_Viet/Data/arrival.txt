@@ -1,0 +1,16 @@
+﻿arrival (n)
+arrival [ə'raivəl]
+* danh từ
+    - sự đến, sự tới nơi
+	+ cheers greeted the arrival of the Queen
+		-> những tiếng hoan hô chào mừng nữ hoàng tới
+	+ on (your) arrival at the hotel, please wait for further instructions
+		-> khi (anh) tới khách sạn, đề nghị anh hãy đợi thêm chỉ thị
+	+ to await arrival
+		-> (nói về bức thư, gói hàng...) đợi (người nhận) đến
+    - người hoặc vật đến
+	+ late arrivals must wait in the foyer
+		-> những người đến chậm phải đợi ở phòng giải lao
+	+ we're expecting a new arrival in the family soon
+		-> chẳng bao lâu nữa gia đình chúng tôi sẽ có thêm một người (một đứa bé nữa sắp ra đời)
+    - chuyến hàng mới đến

@@ -1,0 +1,45 @@
+﻿appeal (n)(v)
+appeal [ə'pi:l]
+* danh từ
+    - (appeal to somebody for something) yêu cầu khẩn khoản
+	+ an appeal for help, food, extra staff
+		-> việc kêu gọi cứu giúp, cung cấp thức ăn, thêm nhân viên
+	+ a charity appeal
+		-> lời kêu gọi cứu tế
+    - yêu cầu giúp đỡ và thông cảm
+	+ her eyes held a look of silent appeal
+		-> đôi mắt cô ấy chất chứa một lời kêu cứu thầm lặng
+    - sự hấp dẫn, sự thích thú
+	+ does jazz hold any appeal for you?
+		-> nhạc jazz có hấp dẫn anh chút nào không?
+	+ the new fashion soon lost its appeal
+		-> mốt mới chẳng bao lâu đã mất sức hấp dẫn
+    - sự chống án, sự kháng cáo
+	+ to lodge an appeal
+		-> gửi đơn kháng cáo
+	+ to have the right of appeal
+		-> có quyền chống án
+	+ appeal court
+		-> toà phúc thẩm
+    - (trong môn cricket) hành vi yêu cầu trọng tài ra quyết định
+* động từ
+    - (to appeal to somebody for something) (to appeal for something) khẩn khoản yêu cầu
+	+ I'm appealing on behalf of the famine victims
+		-> tôi khẩn khoản kêu gọi các ngài nhân danh các nạn nhân của vụ đói kém
+	+ the police appealed to the crowd not to panic
+		-> cảnh sát kêu gọi đám đông đừng hoảng hốt
+    - hấp dẫn; lôi cuốn
+	+ the idea of camping has never appealed to me
+		-> ý nghĩ cắm trại chưa bao giờ là điều hấp dẫn tôi
+	+ her sense of humour appealed to him enormously
+		-> sự nhạy bén của cô ta đối với chất trào phúng đã lôi cuốn anh ta hết sức mạnh mẽ
+    - (to appeal to something) (to appeal against something) kháng cáo; chống án
+	+ I've decided not to appeal
+		-> tôi đã quyết định không chống án
+	+ she appealed to the higher court against her sentence
+		-> bà ấy chống án lên toà trên để phản đối quyết định kết tội bà ấy
+    - (to appeal to somebody) (to appeal for / against something) yêu cầu (trọng tài) tuyên bố một cầu thủ phải ra sân hoặc một quyết định gì khác
+	+ the whole side appealed for a catch
+		-> cả một bên yêu cầu cho bắt bóng
+	+ the captain appealed against the light
+		-> người đội trưởng phản đối về ánh sáng (cho rằng ánh sáng không bảo đảm cho trận đấu tiếp tục)

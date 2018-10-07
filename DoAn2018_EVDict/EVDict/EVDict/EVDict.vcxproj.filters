@@ -156,5 +156,8 @@
     <Image Include="..\..\iconToolBar\SToolbar.bmp">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\iconToolBar\Oxygen-Icons.org-Oxygen-Status-dialog-warning.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

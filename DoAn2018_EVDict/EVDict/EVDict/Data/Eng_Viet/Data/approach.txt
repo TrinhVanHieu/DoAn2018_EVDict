@@ -1,0 +1,58 @@
+﻿approach (n)(v)
+approach [ə'prout∫]
+* danh từ
+    - sự đến gần, sự lại gần
+	+ easy of approach
+		-> (địa điểm) dễ đến; (người) dễ nói chuyện thân thiện, dễ gần gũi
+	+ difficult of approach
+		-> (địa điểm) khó đến; (người) khó nói chuyện thân thiện, khó gần gũi
+	+ heavy footsteps signalled the teacher's approach
+		-> những bước chân nặng nề báo hiệu là thầy giáo đang đến gần
+	+ at her approach, the children ran off
+		-> thấy bà ta đến gần, lũ trẻ bỏ chạy mất
+    - sự gần như, sự gần giống như
+	+ some approach to truth
+		-> một cái gì gần như là chân lý
+	+ that's the nearest approach to a smile he ever makes
+		-> đó là cái nhêch mép gần giống nhất với nụ cười mà anh ta từng có
+    - đường đi đến, lối vào
+	+ the approach to a city
+		-> lối vào thành phố
+	+ all the approaches to the palace were guarded by troops
+		-> mọi ngả đường dẫn đến lâu đài đều có quân lính canh gác
+    - cách tiếp cận, phương pháp
+	+ a new approach to language teaching
+		-> phương pháp mới để giảng dạy ngôn ngữ
+    - (toán học) sự gần đúng; phép tính gần đúng
+	+ approach velocity
+		-> vận tốc gần đúng
+    - chặng cuối của chuyến bay trước khi hạ cánh
+    - (đánh gôn) cú đánh từ đường lăn đến thảm cỏ
+    - sự thăm dò, sự tiếp xúc
+	+ the club has made an approach to a local business firm for sponsorship
+		-> câu lạc bộ đã tiếp xúc với một công ty kinh doanh địa phương để xin bảo trợ
+	+ she resented his persistent approaches
+		-> cô ấy bực bội vì sự đeo đuổi dai dẳng của cậu ta
+* động từ
+    - đến gần, lại gần, tới gần
+	+ winter is approaching
+		-> mùa đông đang đến
+	+ the time is approaching when we must think about buying a new house
+		-> đã sắp đến lúc chúng tôi phải nghĩ đến việc mua một ngôi nhà mới
+	+ as you approach the city, the first building you see is the church
+		-> khi bạn đến gần thành phố, toà nhà đầu tiên bạn thấy là nhà thờ
+    - gần như
+	+ his eccentricity approaches madness
+		-> tính lập dị của anh ta gần như là điên
+    - thăm dò ý kiến; tiếp xúc để đặt vấn đề
+	+ to approach someone on some matter
+		-> thăm dò ý kiến ai về vấn đề gì
+	+ to approach one's bank manager for a loan
+		-> tiếp xúc với người quản lý ngân hàng để vay tiền
+	+ to approach a witness with a bribe
+		-> đến người làm chứng kèm theo đồ đút lót
+	+ I find him difficult to approach
+		-> tôi thấy anh ta là người khó gần gũi
+    - bắt đầu giải quyết; tiếp cận
+	+ before trying to solve the puzzle, let's consider the way to approach it
+		-> trước khi tìm cách giải câu đố, ta hãy xem xét cách tiếp cận nó đã

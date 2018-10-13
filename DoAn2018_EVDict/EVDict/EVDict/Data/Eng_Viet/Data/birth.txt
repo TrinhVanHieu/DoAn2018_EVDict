@@ -1,0 +1,26 @@
+﻿birth (n)
+birth [bə:θ]
+* danh từ
+    - sự xuất hiện của hài nhi ra khỏi thân thể người mẹ; sự sinh đẻ; ca đẻ
+	+ the father was present at the (moment of) birth
+		-> người cha có mặt lúc đứa trẻ ra đời
+	+ the baby weighed seven pounds at birth
+		-> đứa trẻ sinh ra nặng bảy pao
+	+ date of birth and place of birth
+		-> ngày sinh và nơi sinh
+	+ he has been blind from birth
+		-> nó bị mù từ khi sinh ra (bị mù bẩm sinh)
+	+ there were three births at the hospital last night
+		-> đêm qua ở bệnh viện có ba ca đẻ
+    - sự ra đời; ngày thành lập
+	+ the birth of the Democratic Republic of Vietnam
+		-> sự ra đời của nước Việt nam dân chủ cộng hoà
+	+ the birth of capitalism/socialism/a political party
+		-> sự ra đời của chủ nghĩa tư bản/chủ nghĩa xã hội/một chính đảng
+    - dòng dõi
+	+ Chinese by birth
+		-> dòng dõi người Trung quốc
+	+ of noble birth
+		-> thuộc dòng dõi quý phái
+	+ she is English by birth but French by marriage
+		-> cô ta gốc người Anh, nhưng lấy chồng người Pháp

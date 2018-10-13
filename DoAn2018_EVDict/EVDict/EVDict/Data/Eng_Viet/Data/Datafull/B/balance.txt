@@ -1,0 +1,76 @@
+﻿balance (n)(v)
+balance ['bæləns]
+* danh từ
+    - cái cân
+	+ precision balance
+		-> cân chính xác, cân tiểu ly
+	+ analytical balance
+		-> cân phân tích
+    - sự thăng bằng, sự cân bằng; cán cân
+	+ balance of forces; balance of power
+		-> cán cân lực lượng
+	+ balance of power
+		-> (chính trị) chính sách cân bằng lực lượng giữa các nước
+	+ balance of payments
+		-> cán cân thanh toán
+	+ balance of trade
+		-> cán cân mậu dịch
+	+ to keep one's balance
+		-> giữ thăng bằng; (nghĩa bóng) bình tĩnh
+	+ to lose one's balance
+		-> mất thăng bằng; (nghĩa bóng) mất bình tĩnh, rối trí
+	+ to be off one's balance
+		-> ngã (vì mất thăng bằng); bối rối
+	+ to catch/throw somebody off balance
+		-> làm cho ai mất thăng bằng
+	+ to redress the balance
+		-> khôi phục thế cân bằng; lấy lại thăng bằng
+	+ to tip the balance in favour of somebody
+		-> làm cho cán cân nghiêng về ai, giành lợi thế cho ai
+    - sự cân nhắc kỹ
+	+ on balance
+		-> sau khi cân nhắc kỹ
+    - sự thăng trầm của số mệnh
+    - (Balance) (thiên văn học) cung thiên bình
+    - đối trọng
+    - quả lắc (đồng hồ)
+    - (thương nghiệp) bản đối chiếu thu chi, bản quyết toán
+	+ to strike a balance
+		-> làm bản quyết toán
+    - sai ngạch; số còn lại, số dư
+	+ balance in hand
+		-> sai ngạch thừa
+	+ balance due
+		-> sai ngạch thiếu
+	+ to check one's bank balance
+		-> kiểm tra số dư của mình ở ngân hàng (xem) có bao nhiêu trong tài khoản của mình
+	+ the balance will be paid within one week
+		-> số tiền còn lại sẽ được trả trong vòng một tuần
+    - (nghệ thuật) sự cân xứng
+* ngoại động từ
+    - làm cho thăng bằng; làm cho cân bằng; giữ cho thăng bằng
+    - làm cho cân xứng
+	+ to balance the amount of time spent on arts and science subjects
+		-> phân bổ thời gian cho các môn văn chương và khoa học cân xứng nhau
+    - bù lại
+	+ this year's profits will balance our previous losses
+		-> lãi năm nay sẽ bù lại những khoản lỗ trước đây
+    - cân nhắc (một vấn đề, một giải pháp)
+    - (thương nghiệp) quyết toán
+	+ to balance the accounts
+		-> quyết toán các khoản chi thu
+	+ to balance the budget
+		-> cân đối ngân sách
+* nội động từ
+    - giữ thăng bằng
+	+ how long can you balance on one foot?
+		-> anh có thể đứng một chân được bao lâu?
+    - do dự, lưỡng lự
+	+ to balance a long time before coming to a decision
+		-> do dự lâu trước khi quyết định
+    - cân nhau, cân xứng
+	+ the penalty does not balance with the offence
+		-> hình phạt không cân xứng với tội lỗi
+    - (thương nghiệp) cân bằng
+	+ the accounts don't balance
+		-> sổ sách không cân bằng

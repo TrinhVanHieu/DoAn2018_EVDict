@@ -1,0 +1,48 @@
+﻿board (n)(v)
+board [bɔ:d]
+* danh từ
+    - tấm ván
+    - bảng
+	+ a notice board
+		-> bảng thông cáo
+    - giấy bồi, bìa cứng
+    - cơm tháng, cơm trọ; tiền cơm tháng
+    - bàn ăn
+	+ the festive board
+		-> bàn tiệc
+	+ groaning board
+		-> bữa ăn thịnh soạn
+	+ bed and board
+		-> quan hệ vợ chồng ăn cùng mâm nằm cùng chiếu
+    - bàn
+	+ to sweep the board
+		-> vơ hết bài (vơ hết tiền) trên bàn bạc
+    - ban, uỷ ban, bộ
+	+ board of directors
+		-> ban giám đốc
+	+ the board of education
+		-> bộ giáo dục
+    - boong tàu, mạn thuyền
+	+ on board
+		-> trên tàu thuỷ, (từ Mỹ,nghĩa Mỹ) trên xe lửa, trên xe điện...
+	+ to go on board
+		-> lên tàu
+    - (số nhiều) sân khấu
+	+ to tread the boards
+		-> là diễn viên sân khấu
+    - (hàng hải) đường chạy vát
+	+ to make boards
+		-> chạy vát
+* động từ
+    - lót ván, lát ván
+	+ a boarded floor
+		-> sàn nhà lót ván
+    - đóng bìa cứng (sách)
+    - (to board at... / with somebody) ăn (và (thường) cả ở) tại nhà ai; trọ
+	+ he boarded at my house/with me until he found a flat
+		-> anh ta ở trọ nhà tôi đến khi anh ta tìm được một căn hộ
+    - cung cấp cho ai bữa ăn và chỗ ở; cho ăn ở trọ
+    - lên tàu, đáp tàu
+    - (hàng hải) xông vào tấn công (tàu địch); nhảy sang tàu (để tấn công, để khám xét...)
+    - (hàng hải) chạy vát
+    - khám sức khoẻ (trước hội đồng y khoa)

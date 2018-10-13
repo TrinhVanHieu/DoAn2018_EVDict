@@ -1,0 +1,17 @@
+﻿button (n)(v)
+button ['bʌtn]
+* danh từ
+    - cái khuy, cái cúc (áo)
+	+ button-down collar
+		-> cổ áo có nút gài
+    - cái nút, cái núm, cái bấm (chuông điện...)
+    - nụ hoa; búp mầm (chưa nở)
+    - (số nhiều) (thông tục) chú bé phục vụ ở khách sạn ((cũng) boy in buttons)
+* động từ
+    - cài khuy, cài cúc; cài
+	+ to button up one's coat
+		-> cài khuy áo lại
+	+ this dress buttons down the back
+		-> cái áo này cài ở phía sau
+    - đơm khuy, đơm cúc (áo)
+    - ((thường) + up) phủ kín áo lên (người hay súc vật mang trong người

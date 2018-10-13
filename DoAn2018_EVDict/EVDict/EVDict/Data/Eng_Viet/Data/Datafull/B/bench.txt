@@ -1,0 +1,21 @@
+﻿bench (n)
+bench [bent∫]
+* danh từ
+    - ghế dài
+	+ park benches
+		-> ghế ở công viên
+    - bàn (của thợ mộc, thợ đóng giày)
+    - ghế ngồi của quan toà; toà án
+	+ to be raised to the bench
+		-> được bổ nhiệm làm quan toà; được phong làm giám mục
+	+ to be on the bench
+		-> làm quan toà; làm giám mục
+	+ the bench and the bar
+		-> quan toà và luật sư
+    - ghế ngồi ở nghị viện Anh (của từng nhóm)
+	+ bishops' bench
+		-> ghế ngồi của các giám mục (trong nghị viện Anh)
+* danh từ
+    - cuộc trưng bày, cuộc triển lãm (chó)
+* ngoại động từ
+    - trưng bày, triển lãm (chó)

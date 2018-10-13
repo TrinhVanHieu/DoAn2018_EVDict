@@ -1,0 +1,22 @@
+﻿book (n)(v)
+book [buk]
+* danh từ
+    - sách
+	+ old book
+		-> sách cũ
+	+ to write a book
+		-> viết một cuốn sách
+	+ book of stamps
+		-> một tập tem
+	+ book I
+		-> tập 1
+    - (số nhiều) sổ sách kế toán
+    - (the book) kinh thánh
+* ngoại động từ
+    - viết vào vở; ghi vào vở
+    - ghi tên người mua vé trước
+    - ghi địa chỉ (để chuyển hàng)
+    - giữ chỗ trước, mua vé trước
+    - to book seats for the threatre
+		-> mua vé trước để đi xem hát
+    - lấy vé (xe lửa...)

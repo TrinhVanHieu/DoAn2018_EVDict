@@ -1,0 +1,55 @@
+﻿base (n)(v)
+base [beis]
+* danh từ
+    - đáy, chân đế
+	+ the base of a pillar/column
+		-> chân trụ/cột
+    - (toán học) đường đáy, mặt đáy
+	+ the base of a triangle/pyramid
+		-> đáy tam giác/kim tự tháp
+    - (toán học) con số làm cơ sở xây dựng một hệ thống số, thí dụ 10 trong hệ thống thập phân hoặc 2 trong hệ thống nhị phân
+    - (trong bóng chày) một trong bốn vị trí mà người chơi phải chạm tới để ghi điểm; góc; gôn
+    - căn cứ
+	+ air/naval base
+		-> căn cứ không quân/hải quân
+	+ military base
+		-> căn cứ quân sự
+	+ base of operation
+		-> căn cứ tác chiến
+	+ to set up/establish a base
+		-> thiết lập một căn cứ
+    - (ngôn ngữ học) gốc từ
+    - (hoá học) Bazơ
+    - nền tảng, cơ sở
+	+ she used her family's history as a base for her novel
+		-> bà ta dùng lịch sử gia đình mình làm nền cho cuốn tiểu thuyết của bà ta
+	+ his arguments had a sound economic base
+		-> lý lẽ của ông ta có một cơ sở kinh tế vững chắc
+    - phần hoặc thành phần chủ yếu cộng thêm các thứ khác
+	+ a drink with a rum base
+		-> thức uống lấy rượu rum làm cốt
+	+ some paints have an oil base
+		-> một số thuốc màu có thành phần chính là dầu
+	+ put some moisturizer on as a base before applying your make-up
+		-> xoa một ít chất kem ướt làm nền trước khi đánh phấn
+* ngoại động từ
+    - dựa vào, căn cứ vào
+	+ I base my hopes on the good news we had yesterday
+		-> hy vọng của tôi là dựa vào cái tin tốt lành chúng tôi nhận được hôm qua
+	+ this novel is based on historical facts
+		-> tiểu thuyết này dựa vào những sự kiện lịch sử
+	+ to base oneself on facts
+		-> dựa vào thực tế
+    - bố trí
+	+ where are you based now?
+		-> bây giờ anh được bố trí ở đâu?
+	+ most of our staff are based in Cairo
+		-> hầu hết bộ tham mưu của chúng tôi được bố trí ở Cairô
+* tính từ
+    - hèn hạ, đê tiện; khúm núm, quỵ luỵ
+    - không nguyên chất
+	+ base coin
+		-> đồng tiền pha
+    - kém giá trị, không quý
+	+ base metal
+		-> kim loại thường

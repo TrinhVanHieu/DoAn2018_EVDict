@@ -1,0 +1,27 @@
+﻿bug (n)
+bug [bʌg]
+* danh từ
+    - con rệp
+    - (căn bệnh gây ra bởi) vi trùng hoặc siêu vi trùng truyền bệnh
+	+ I don't believe you've caught a bug
+		-> tôi khôngtin rằng anh đã nhiễm bệnh
+	+ there are a lot of bugs about in winter
+		-> mùa đông có lắm chứng bệnh
+    - (tin học) chỗ sai sót; lỗi
+	+ there's a bug in the system
+		-> hệ thống bị lỗi
+    - (từ lóng) sự đam mê (công việc...)
+	+ to get the bug; to be bitten by the bug
+		-> trở nên đam mê
+    - (từ Mỹ,nghĩa Mỹ), (từ lóng) máy ghi âm nhỏ (để nghe trộm)
+	+ to search a workroom for bugs
+		-> lục soát phòng làm việc để tìm máy nghe trộm
+	+ to plant a bug in somebody's bedroom
+		-> đặt máy nghe trộm trong phòng ngủ của ai
+* ngoại động từ
+    - (từ Mỹ,nghĩa Mỹ), (từ lóng) đặt máy ghi âm để nghe trộm; nghe trộm
+	+ I'm sure your house is bugged
+		-> Tôi bảo đảm nhà anh bị đặt máy nghe trộm
+	+ to bug a tête-à-tête
+		-> nghe trộm hai người nào đó nói chuyện với nhau
+    - làm khó chịu, làm phát cáu

@@ -1,0 +1,39 @@
+﻿bite (n)(v)
+bite [bait]
+* danh từ
+    - sự cắn, sự ngoạm; miếng cắn; vết cắn
+    - sự châm, sự đốt; nốt đốt (muỗi, ong...)
+    - miếng (thức ăn); thức ăn
+	+ a bite of food
+		-> một miếng ăn
+	+ without bite and soup
+		-> không cơm nước gì cả
+    - sự đau nhức, sự nhức nhối của vết thương
+    - sự cắn câu (cá...)
+    - sự bám chắt, sự ăn sâu (mỏ neo, phanh, đinh ốc...)
+    - vị cay tê (gừng, hạt tiêu...)
+    - (nghĩa bóng) sự châm biếm, sự chua cay (lời nói)
+    - cỏ cho vật nuôi
+* động từ bất quy tắc bit; bitten
+    - cắn, ngoạm
+	+ to bite one's nails
+		-> cắn móng tay
+    - châm đốt; đâm vào (gươm...)
+	+ to be badly bitten by mosquitoes
+		-> bị muỗi đốt nhiều quá
+    - làm đau, làm nhột; ăn mòn; làm cay tê (thức ăn)
+	+ the frost will bite the fruit blossom
+		-> sương giá sẽ làm chột mầm quả
+	+ strong acids bite metals
+		-> axit mạnh ăn mòn kim loại
+	+ pepper and ginger bite the tongue
+		-> hạt tiêu và gừng làm cay tê lưỡi
+    - cắn câu ((nghĩa đen), (nghĩa bóng))
+    - bám chắt, ăn sâu, bắt vào
+	+ the screw does not bite
+		-> đinh ốc không bắt vào được
+	+ the anchor does not bite
+		-> neo không bám chắc
+	+ the brake will not bite
+		-> phanh không ăn
+    - (nghĩa bóng) lừa bịp

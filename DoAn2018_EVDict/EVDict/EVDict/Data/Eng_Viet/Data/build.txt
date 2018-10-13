@@ -1,0 +1,18 @@
+﻿build (n)(v)
+build [bild]
+* danh từ
+    - sự xây dựng
+    - kiểu kiến trúc
+    - khổ người tầm vóc
+	+ man of strong build
+		-> người có tầm vóc khoẻ
+	+ to be of the same build
+		-> cùng tầm vóc
+* (bất qui tắc) động từ built [bilt]
+    - xây dựng, xây cất; dựng nên, lập nên, làm nên
+	+ to build a railway
+		-> xây dựng đường xe lửa
+	+ to build a new society
+		-> xây dựng một xã hội mới
+	+ birds build nests
+		-> chim làm tổ

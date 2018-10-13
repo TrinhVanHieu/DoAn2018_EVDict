@@ -1,0 +1,6 @@
+﻿bicycle (n)
+bicycle ['baisikl]
+* danh từ
+    - xe đạp
+	+ bicycle-clip
+		-> cái kẹp lai quần khi đi xe đạp

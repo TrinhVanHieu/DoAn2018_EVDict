@@ -1,0 +1,44 @@
+﻿bid (n)(v)
+bid [bid]
+* danh từ
+    - giá được đưa ra để mua cái gì (nhất là tại cuộc bán đấu giá)
+	+ to make a bid of 5000 francs for a painting
+		-> đặt giá bức tranh là 5000 quan
+	+ any higher /further bids ?
+		-> còn ai ra giá cao hơn hay không?
+    - sự bỏ thầu (như) tender
+    - sự cố gắng; sự nỗ lực
+	+ he failed in his bid to reach the summit
+		-> anh ta cố gắng mà vẫn không lên đỉnh được
+	+ to make a bid for power /popular support
+		-> cố gắng giành quyền lực/sự ủng hộ của quần chúng
+    - xướng lên số quân bài được đưa ra (trong một ván bài tây)
+	+ It's your bid next - No bid
+		-> Đến lượt anh tố - Pha (bỏ)
+* động từ, thì quá khứ và động tính từ quá khứ là bid
+    - (to bid something for something ) ( to bid something on something ) đưa ra (một cái giá) để mua cái gì (nhất là tại cuộc bán đấu giá); trả giá
+	+ What am I bid (for this painting )?
+		-> các vị trả (giá) cho tôi là bao nhiêu (cho bức tranh này)?
+	+ she bid 5000 francs (for the painting )
+		-> cô ấy trả giá 5000 quan (cho bức tranh)
+	+ we had hoped to get the house but another couple was bidding against us
+		-> chúng tôi hy vọng là sẽ mua được ngôi nhà, nhưng có một đôi vợ chồng khác trả giá cao hơn chúng tôi
+    - (từ Mỹ,nghĩa Mỹ) đưa ra một cái giá để làm công việc gì; dự thầu
+	+ several firms have bid for the contract to build the new bridge
+		-> có mấy hãng dự thầu xây dựng cầu mới
+    - (trong môn chơi bài brit) xướng bài
+	+ to bid two hearts
+		-> xướng hai quân cơ
+    - (thì quá khứ là bade , động tính từ quá khứ là bidden ) ra lệnh; bảo
+	+ do as you are bidden
+		-> anh hãy làm như người ta yêu cầu
+	+ she bade me (to ) come in
+		-> bà ta bảo tôi vào
+    - mời
+	+ guests bidden to (attend ) the feast
+		-> những vị khách được mời (đến dự) tiệc
+    - nói lời chào
+	+ to bid somebody good morning
+		-> chào ai (lời chào buổi sáng)
+	+ he bade farewell to his sweetheart
+		-> anh ta chào từ biệt người yêu của mình

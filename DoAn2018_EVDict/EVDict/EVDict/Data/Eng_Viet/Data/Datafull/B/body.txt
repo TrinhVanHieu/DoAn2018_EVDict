@@ -1,0 +1,54 @@
+﻿body (n)
+body ['bɔdi]
+* danh từ
+    - cơ thể của người hoặc động vật; thân thể; thể xác
+	+ sound in mind and body
+		-> lành mạnh cả tâm hồn lẫn thể xác
+	+ children's bodies grow steadily
+		-> cơ thể của trẻ con phát triển đều đặn
+    - xác chết; thi thể
+	+ to find a body in the warehouse
+		-> phát hiện một xác chết trong nhà kho
+	+ his body will be brought back to his native country for burial
+		-> thi hài ông ta sẽ được đưa về quê hương để chôn cất
+    - phần chính yếu của cơ thể con người (không kể đầu và tứ chi); thân mình; người
+	+ he has a strong body, but is very chicken-hearted
+		-> hắn có thân người to khoẻ, nhưng nhát gan lắm
+	+ the fireman was seriously injured on the face and body
+		-> anh lính chữa cháy bị thương nặng ở mặt và người
+    - phần chính yếu; thân (máy, xe, tàu...)
+	+ the body of a plane, ship
+		-> thân máy bay/tàu thủy
+	+ the body of a palace
+		-> gian chính của cung điện
+	+ the main body of the book deals with the latest features of that application software
+		-> phần cốt lõi của quyển sách bàn về những tính năng mới nhất của phần mềm ứng dụng ấy
+    - nhóm; đoàn; đội; ban; hội đồng
+	+ a legislative body
+		-> hội đồng lập pháp
+	+ a body of parachuters
+		-> một toán lính nhảy dù
+	+ a body of cavalry
+		-> đội kỵ binh
+	+ an examining body
+		-> ban chấm thi
+	+ a government body is present in this city
+		-> một phái đoàn chính phủ đang có mặt ở thành phố này
+    - khối; số lượng lớn
+	+ to have a large body of evidence to prove one's statements
+		-> có nhiều chứng cứ để chứng minh những lời phát biểu của mình
+	+ large bodies of water
+		-> những khối nước mênh mông
+    - con người; người
+	+ a nice body
+		-> (thông tục) một người tốt
+    - vật thể
+	+ to get a foreign body in the left ear
+		-> bị dị vật vào tai trái
+	+ heavenly bodies
+		-> thiên thể
+    - hương vị (của rượu)
+	+ a wine with plenty of body
+		-> rượu đậm đà hương vị
+* ngoại động từ
+    - tạo nên một hình thể cho (cái gì)

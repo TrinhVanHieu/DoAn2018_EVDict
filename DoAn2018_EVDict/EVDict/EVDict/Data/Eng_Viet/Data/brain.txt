@@ -1,0 +1,31 @@
+﻿brain (n)
+brain [brein]
+* danh từ
+    - óc; não
+	+ a disease of the brain
+		-> một chứng bệnh não
+	+ the brain is the centre of the nervous system
+		-> não là trung tâm của hệ thần kinh
+	+ brain surgery
+		-> khoa phẫu thuật não
+    - trí tuệ; trí lực; trí thông minh
+	+ he has very little brain
+		-> nó kém thông minh
+	+ he has an excellent brain
+		-> nó thông minh lắm
+	+ you need brains to become a researcher
+		-> anh phải có trí tuệ thì mới làm nhà nghiên cứu được
+	+ he has one of the best brains in the military academy
+		-> anh ấy là một trong những người thông thái nhất của học viện quân sự
+    - người thông minh; người trí thức
+	+ he is one of the leading brains in the country
+		-> ông ấy là một trong những nhà thông thái hàngđâu của đất nước
+    - (the brains) người giỏi nhất trong một nhóm
+	+ he's the brains of the family
+		-> anh ấy là người giỏi giang nhất gia đình
+	+ she was the brains behind the whole scheme
+		-> bà ta là đầu não của toàn bộ kế hoạch ấy
+* ngoại động từ
+    - giết bằng cách đánh mạnh vào đầu; đánh vỡ đầu
+	+ I nearly brained myself on that low bar
+		-> Tôi suýt vỡ đầu vì va vào cái xà thấp này

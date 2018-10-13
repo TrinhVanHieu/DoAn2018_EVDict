@@ -1,0 +1,31 @@
+﻿bit (n)
+bit [bit]
+* danh từ
+    - miếng (thức ăn...), mảnh, mẩu
+	+ a dainty bit
+		-> một miếng ngon
+	+ a bit of wood
+		-> một mẩu gỗ
+	+ a bit of string
+		-> một mẩu dây
+	+ to smash to bits
+		-> đập tan ra từng mảnh
+    - một chút, một tí
+	+ wait a bit
+		-> đợi một tí, đợi một chút
+	+ he is a bit of a coward
+		-> hắn ta hơi nhát gan một chút
+    - đoạn ngắn (của một vai kịch nói, trong sách...)
+    - (một) góc phong cảnh (thực hoặc vẽ)
+    - đồng tiền
+	+ a threepenny bit
+		-> đồng ba xu (Anh)
+* danh từ
+    - mũi khoan; đầu mỏ hàn; mũi kim; mỏ chìa khoá
+    - hàm thiếc ngựa
+    - con số nhị phân
+    - (nghĩa bóng) sự kiềm chế
+* ngoại động từ
+    - đặt hàm thiếc (cho ngựa); làm cho (ngựa) quen hàm thiếc
+    - (nghĩa bóng) kiềm chế, nén, hãm lại, kìm lại
+* thời quá khứ & động tính từ quá khứ của bite

@@ -1,0 +1,29 @@
+﻿brush (n)(v)
+brush [brʌ∫]
+* danh từ
+    - bàn chải
+    - sự chải
+	+ to give one's clothes a good brush
+		-> chải quần áo sạch sẽ
+    - bút lông (vẽ)
+	+ the brush
+		-> nghệ thuật vẽ; nét bút của hoạ sĩ, hoạ sĩ
+    - đuôi chồn
+    - bụi cây
+    - (từ Mỹ,nghĩa Mỹ) cành cây bó thành bó
+    - (quân sự) cuộc chạm trán chớp nhoáng
+	+ a brush with the enemy
+		-> cuộc chạm trán chớp nhoáng với quân thù
+    - (điện học) cái chổi
+	+ carbon brush
+		-> chổi than
+* ngoại động từ
+    - chải, quét
+	+ to brush one's hair
+		-> chải tóc
+    - vẽ lên (giấy, lụa...)
+    - chạm qua, lướt qua (vật gì)
+* nội động từ
+    - chạm nhẹ phải, lướt phải
+	+ to brush against somebody
+		-> đi chạm nhẹ phải ai

@@ -1,0 +1,14 @@
+﻿budget (n)(v)
+budget['bʌdʒit]
+* danh từ
+    - túi (đầy), bao (đầy)
+    - (nghĩa rộng) đống, kho, hàng khối
+	+ budget of news
+		-> hàng khối tin tức
+    - ngân sách, ngân quỹ
+* nội động từ
+    - dự thảo ngân sách; ghi vào ngân sách
+	+ to budget for the coming year
+		-> dự thảo ngân sách cho năm tới
+* tính từ
+    - rẻ, không đắt tiền

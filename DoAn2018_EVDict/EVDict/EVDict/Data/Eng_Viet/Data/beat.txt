@@ -1,0 +1,81 @@
+﻿beat (n)(v)
+beat [bi:t]
+* danh từ
+    - cú đánh (lên một cái trống chẳng hạn) hoặc một loạt những cú đánh đều đều; tiếng động của cái đó
+	+ we heard the beat of a drum
+		-> chúng tôi nghe thấy một hồi trống
+	+ heart beats
+		-> trống ngực
+    - con đường ai vẫn thường xuyên đi qua; khu vực phâncho một viên cảnh sát, người gác...
+	+ a policeman out on the/his beat
+		-> viên cảnh sát đang đi tuần trên khu vực của mình
+    - (thông tục) cái trội hơn hẳn, cái vượt hơn hẳn
+	+ I've never seen his beat
+		-> tớ chưa thấy ai trội hơn nó
+    - (âm nhạc) nhịp, nhịp đánh (của người chỉ huy dàn nhạc)
+    - (vật lý) phách
+    - (săn bắn) khu vực săn đuổi, cuộc săn đuổi
+    - (từ Mỹ,nghĩa Mỹ), (từ lóng) tin đăng đầu tiên (trước các báo cáo)
+* động từ, thì quá khứ là beat, động tính từ quá khứ là beaten
+    - đánh ai/cái gì nhiều lần (nhất là bằng cây gậy); đập; nện
+	+ somebody is beating at the door
+		-> có người đang đập cửa
+	+ to beat one's breast
+		-> tự đấm ngực
+	+ who's beating the drum?
+		-> ai đang đánh trống vậy?
+	+ she's beating the carpet/beating the dust of the carpet
+		-> bà ấy đang đập tấm thảm cho sạch/đang đập bụi thảm
+	+ to beat somebody black and blue
+		-> đánh ai thâm tím mình mẩy
+	+ to beat somebody unconscious
+		-> đánh ai bất tỉnh
+    - biến đổi hình dạng của (nhất là kim loại) bằng những cú đập
+	+ beaten silver
+		-> bạc gò
+	+ the gold was beaten (out) into fine strips
+		-> vàng được đánh thành những sợi nhỏ
+	+ to beat metal flat
+		-> đập dẹp kim loại
+    - đập (các bụi rậm, tầng cây thấp...); xua thú ra để bắn; khua
+    - làm thành (một con đường...) bằng cách vít các cành cây xuống rồi dẫm lên; phát (con đường)
+	+ a well beaten path
+		-> một đường mòn nhẵn (do nhiều người qua lại lâu năm)
+    - (to beat against / on something / somebody) (nói về mưa, nắng gió...) đập vào cái gì/ai
+	+ hailstones beat against the window
+		-> những hòn mưa đá đập vào cửa sổ
+	+ the waves were beating on the shore
+		-> sóng vỗ vào bờ
+    - (to beat something up) dùng một cái dĩa, cái đánh kem. khuấy trộn mạnh cái gì; đánh
+	+ to beat the eggs (up) (to a frothy consistency)
+		-> đánh trứng (đến độ sền sệt sủi bọt)
+    - (nói về tim) nở ra và co lại nhịp nhàng; đập
+	+ he's alive - his heart is still beating
+		-> anh ta còn sống - tim vẫn còn đập
+    - phát ra một tiếng động nhịp nhàng; đập
+	+ we heard the drums beating
+		-> chúng tôi nghe tiếng trống đánh thùng thùng
+    - làm cái gì lên xuống nhiều lần; vỗ
+	+ to beat the wings
+		-> (nói về chim) vỗ cánh
+	+ the bird wings were beating frantically
+		-> cánh chim vỗ loạn xạ
+    - (to beat somebody at something) đánh bại ai; thắng ai
+	+ our team was easily beaten
+		-> đội chúng tôi bị đánh bại dễ dàng
+	+ nothing beats home cooking
+		-> không gì hơn nấu ăn ở nhà
+	+ The Government's aim is to beat inflation
+		-> Mục tiêu của chính phủ là đẩy lùi lạm phát
+    - làm cho bối rối
+	+ a problem that beats even the experts
+		-> một vấn đề khiến cả các chuyên gia cũng phải bối rối
+    - điều khiển bằng cách đánh trống
+	+ to beat a charge
+		-> đánh trống ra lệnh tấn công
+	+ to beat a retreat
+		-> đánh trống ra lệnh rút lui
+	+ to beat a parley
+		-> đánh trống đề nghị thương lượng
+* tính từ
+    - mệt lử; kiệt sức

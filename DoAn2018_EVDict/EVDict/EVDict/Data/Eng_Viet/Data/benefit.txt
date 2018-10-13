@@ -1,0 +1,25 @@
+﻿benefit (n)(v)
+benefit ['benifit]
+* danh từ
+    - lợi, lợi ích
+	+ for special benefit of...
+		-> vì lợi ích riêng của...
+	+ the book is of much benefit to me
+		-> quyển sách giúp ích tôi rất nhiều
+    - buổi biểu diễn; trận đấu (lấy tiền giúp cho một vận động viên hoặc một hội từ thiện...)
+	+ a benefit match, performance, concert
+		-> một cuộc thi đấu, biểu diễn, hoà nhạc gây quỹ
+    - tiền trợ cấp, tiền tuất
+	+ death benefit
+		-> tiền trợ cấp ma chay
+	+ maternity benefit
+		-> tiền trợ cấp sinh đẻ
+    - phúc lợi
+	+ medical benefit
+		-> phúc lợi về y tế
+* ngoại động từ
+    - giúp ích cho, làm lợi cho
+* nội động từ
+    - được lợi, lợi dụng
+	+ to benefit by something
+		-> lợi dụng cái gì

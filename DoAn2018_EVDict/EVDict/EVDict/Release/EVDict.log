@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  CComboboxEX.cpp
+  CListboxEX.cpp
+  CRicheditEX.cpp
+  CStatusbarEX.cpp
+  CToolbarEX.cpp
+  EVDict.cpp
+d:\doan2018_evdict\doan2018_evdict\evdict\evdict\evdict.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 584 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EVDict.vcxproj -> D:\DoAn2018_EVDict\DoAn2018_EVDict\EVDict\Release\EVDict.exe

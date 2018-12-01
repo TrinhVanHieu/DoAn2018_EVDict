@@ -3,3 +3,4 @@ hoa
 phim
 sao
 xe
+anh

@@ -192,10 +192,13 @@
     <Image Include="..\..\iconToolBar\Oxygen-Icons.org-Oxygen-Status-dialog-warning.ico" />
     <Image Include="..\..\iconToolBar\SearchToolbar.bmp" />
     <Image Include="..\..\iconToolBar\SToolbar.bmp" />
+    <Image Include="..\..\iconToolBar\Stop.ico" />
     <Image Include="..\..\iconToolBar\TBitmap.bmp" />
+    <Image Include="..\..\iconToolBar\Tick.ico" />
     <Image Include="..\..\iconToolBar\Ubitmap.bmp" />
     <Image Include="..\..\iconToolBar\Vbitmap.bmp" />
     <Image Include="..\..\iconToolBar\vd.bmp" />
+    <Image Include="..\..\iconToolBar\write.ico" />
     <Image Include="..\..\iconToolBar\XBitmap.bmp" />
     <Image Include="C:\Users\TrinhVanHieu\Desktop\Ebitmap.bmp" />
     <Image Include="C:\Users\TrinhVanHieu\Desktop\Untitled.bmp" />

@@ -159,5 +159,14 @@
     <Image Include="..\..\iconToolBar\Oxygen-Icons.org-Oxygen-Status-dialog-warning.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\iconToolBar\Stop.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\Tick.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\iconToolBar\write.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

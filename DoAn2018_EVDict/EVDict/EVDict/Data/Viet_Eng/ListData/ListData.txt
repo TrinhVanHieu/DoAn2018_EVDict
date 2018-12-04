@@ -1,6 +1,5 @@
 em
 hoa
+hoa sen
 phim
 sao
-xe
-anh

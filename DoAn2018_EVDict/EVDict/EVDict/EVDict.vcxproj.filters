@@ -72,16 +72,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="EVDict.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="C:\Users\TrinhVanHieu\Desktop\Untitled.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="C:\Users\TrinhVanHieu\Desktop\vdbitmap.png">
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="C:\Users\TrinhVanHieu\Desktop\vdbitmap.bmp">
@@ -93,79 +84,61 @@
     <Image Include="C:\Users\TrinhVanHieu\Desktop\vd1.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Ebitmap.bmp">
+    <Image Include="..\iconToolBar\Stop.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\logo.bmp">
+    <Image Include="..\iconToolBar\Tick.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\LogoUCTnew.bmp">
+    <Image Include="..\iconToolBar\write.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\LogoUTC.bmp">
+    <Image Include="..\iconToolBar\iCon.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\AnhTN.bmp">
+    <Image Include="..\iconToolBar\Delacro-Id-Help.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Cbitmap2.bmp">
+    <Image Include="..\iconToolBar\Oxygen-Icons.org-Oxygen-Status-dialog-warning.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\icontoolbar\bitmap2.bmp">
+    <Image Include="..\iconToolBar\Ebitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\vd.bmp">
+    <Image Include="..\iconToolBar\LogoUTC.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Vbitmap.bmp">
+    <Image Include="..\iconToolBar\AnhTN.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\CBitmap.bmp">
+    <Image Include="..\iconToolBar\CBitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Bbitmap.bmp">
+    <Image Include="..\iconToolBar\Vbitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\TBitmap.bmp">
+    <Image Include="..\iconToolBar\Bbitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\XBitmap.bmp">
+    <Image Include="..\iconToolBar\TBitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Ubitmap.bmp">
+    <Image Include="..\iconToolBar\XBitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Ibitmap.bmp">
+    <Image Include="..\iconToolBar\Ubitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\fbitmap.bmp">
+    <Image Include="..\iconToolBar\Ibitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\BoBitmap.bmp">
+    <Image Include="..\iconToolBar\fbitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\iCon.ico">
+    <Image Include="..\iconToolBar\BoBitmap.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\..\iconToolBar\Delacro-Id-Help.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\iconToolBar\SearchToolbar.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\iconToolBar\SToolbar.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\iconToolBar\Oxygen-Icons.org-Oxygen-Status-dialog-warning.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\iconToolBar\Stop.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\iconToolBar\Tick.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\iconToolBar\write.ico">
+    <Image Include="..\iconToolBar\SToolbar.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

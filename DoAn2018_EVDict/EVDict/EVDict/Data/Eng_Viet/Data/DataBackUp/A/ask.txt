@@ -1,0 +1,54 @@
+﻿ask (v)
+ask [ɑ:sk]
+* động từ
+    - (to ask somebody about somebody / something; to ask something of somebody) yêu cầu thông tin (về ai/cái gì); hỏi
+	+ to ask the time
+		-> hỏi giờ
+	+ ask (him) about the ring you lost, he may have found it
+		-> hãy hỏi (anh ta) về chiếc nhẫn mà cô đánh mất, có thể anh ta đã bắt được cái nhẫn đó
+	+ don't be afraid of asking questions
+		-> đừng sợ đặt câu hỏi (cứ hỏi đừng sợ)
+	+ did you ask the price?
+		-> anh hỏi giá chưa?
+	+ no questions were asked of us
+		-> không ai hỏi chúng tôi gì cả
+	+ he asked if I could drive
+		-> anh ta hỏi tôi biết lái xe hay không
+	+ she asked them their names
+		-> cô ta hỏi họ tên những người ấy
+	+ I had to ask the teacher what to do next
+		-> tôi phải hỏi thầy giáo xem tiếp theo phải làm gì
+    - (to ask something of somebody / somebody for something) yêu cầu ai cho cái gì hoặc làm gì
+	+ did you ask your boss for a pay increase?
+		-> anh có yêu cầu ông chủ tăng lương chưa?
+	+ may I ask a favour of you?
+		-> tôi có thể nhờ anh một việc được không?
+	+ to ask somebody's advice/opinion
+		-> hỏi ý kiến ai
+	+ if you want to camp in this field, you must ask the farmer's permission
+		-> nếu muốn cắm trại trên cánh đồng này, anh phải xin phép người chủ trại
+	+ she asked (me) if I would drive her home
+		-> cô ta đề nghị tôi lái xe đưa cô ta về nhà
+	+ I asked James to buy some bread
+		-> tôi đã yêu cầu/nhờ James mua bánh mì
+    - xin phép làm cái gì
+	+ ask to use the car!
+		-> hãy xin phép sử dụng chiếc xe hơi
+	+ he asked to speak to his friends
+		-> anh ta xin nói chuyện với bạn bè
+	+ I must ask you to excuse me
+		-> tôi phải xin ông thứ lỗi cho
+    - (to ask somebody to something) mời ăn
+	+ to ask someone to dinner
+		-> mời cơm ai
+	+ he asked me out several times already
+		-> anh ta mời tôi đi chơi nhiều lần rồi
+	shall we ask the neighbours in/round?
+chúng ta có nên mời hàng xóm tới không?
+	đòi hỏi
+	what are they asking for the house?
+họ đòi bao nhiêu về ngôi nhà của họ?
+	to ask 600 dongs for a bicycle
+đòi 600 đ một cái xe đạp
+	you're asking too much
+ông đòi nhiều quá

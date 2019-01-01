@@ -1,0 +1,25 @@
+﻿animal (n)
+animal ['æniməl]
+* danh từ
+    - sinh vật có cảm xúc và tự di chuyển được; động vật
+	+ Men, dogs, birds, flies, fish and snakes are all animals
+		-> Người, chó, chim, ruồi, cá và rắn đều là động vật
+    - sinh vật có bốn chân; thú vật
+	+ domestic animal
+		-> động vật nuôi
+	+ wild animal
+		-> động vật hoang dại
+    - người hung tợn dữ dằn
+* tính từ
+    - (thuộc) động vật; (thuộc) thú vật
+	+ the animal kingdom
+		-> giới động vật
+	+ animal husbandry
+		-> nghề chăn nuôi gia súc
+	+ animal magnetism
+		-> sức hấp dẫn vật chất ở động vật
+    - (thuộc) xác thịt
+	+ animal spirits
+		-> tính sôi nổi, tính yêu đời
+	+ animal desires
+		-> những ham muốn xác thịt; nhục dục

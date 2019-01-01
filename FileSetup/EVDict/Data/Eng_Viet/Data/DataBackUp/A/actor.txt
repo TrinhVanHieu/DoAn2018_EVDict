@@ -1,0 +1,9 @@
+﻿actor (n)
+actor ['æktə]
+* danh từ
+    - diễn viên (kịch, tuồng, chèo, (điện ảnh)...); kép, kép hát
+	+ film actor
+		-> tài tử đóng phim, diễn viên điện ảnh
+    - (từ hiếm,nghĩa hiếm) người làm (một việc gì)
+	+ a bad actor
+		-> (từ Mỹ,nghĩa Mỹ) người khó tin cậy

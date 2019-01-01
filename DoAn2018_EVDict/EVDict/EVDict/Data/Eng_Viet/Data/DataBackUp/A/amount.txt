@@ -1,0 +1,33 @@
+﻿amount (n)
+amount [ə'maunt]
+* danh từ
+    - lượng, số lượng
+	+ a considerable amount
+		-> một số lượng đáng kể
+	+ a large amount of work/money/furniture
+		-> một số lượng lớn công việc/tiền bạc/đồ đạc
+	+ food was provided in varying amounts
+		-> lương thực được cung cấp với những số lượng khác nhau
+	+ no amount of encouragement would make him jump
+		-> dù khuyến khích đến mức nào, nó vẫn không nhảy
+    - tổng số hoặc tổng giá trị
+	+ a bill for the full amount
+		-> hoá đơn tính đủ tổng số tiền
+	+ can you really afford this amount?
+		-> có thật là anh cung ứng được ngần này hay không?
+	+ what's the amount of this?
+		-> tổng số cái này là bao nhiêu?
+    - thực chất, giá trị thực; tầm quan trọng, ý nghĩa
+	+ this is the amount of what he promised
+		-> thực chất lời hứa của hắn là đây
+* nội động từ
+    - lên đến, lên tới (tiền)
+	+ the bill amounts to 100đ
+		-> hoá đơn lên đến 100đ
+    - chung qui là, rốt cuộc là, có nghĩa là, chẳng khác gì là
+	+ it amounts to the same thing
+		-> rốt cuộc cũng thế cả
+	+ this amounts to a refusal
+		-> cái đó chẳng khác gì là một lời từ chối
+	+ what you say amounts to a direct accusation
+		-> chung quy những điều anh nói vẫn là một lời buộc tội trực tiếp

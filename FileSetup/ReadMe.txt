@@ -1,0 +1,1 @@
+Run file EVDict.msi inside folder Setup to set up this application.

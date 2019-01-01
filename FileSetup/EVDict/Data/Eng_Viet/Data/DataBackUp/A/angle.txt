@@ -1,0 +1,50 @@
+﻿angle (n)
+angle ['æηgl]
+* danh từ
+    - góc
+	+ acute angle
+		-> góc nhọn
+	+ obtuse angle
+		-> góc tù
+	+ right angle
+		-> góc vuông
+	+ angle of rotation
+		-> góc quay
+	+ angle of repose
+		-> góc nghỉ
+	+ angle of view
+		-> góc nhìn, góc ngắm
+	+ angle of deflection
+		-> góc lệch
+	+ angle of reflection
+		-> góc phản xạ
+	+ angle of cut-off
+		-> góc cắt
+    - góc (của một toà nhà hoặc một đồ vật)
+	+ she hit her knee against the angle of the bed
+		-> cô ta va đầu gối vào góc giừơng
+    - (nghĩa bóng) quan điểm, góc độ
+	+ try looking at the question from a different angle
+		-> hãy thử nhìn vấn đề từ một quan điểm khác (dưới một góc độ khác)
+	+ seen from this angle, the woman in the picture is smiling
+		-> nhìn từ góc độ này, người đàn bà trong tranh lại đang mỉm cười
+* ngoại động từ
+    - di chuyển hoặc đặt cái gì theo một tư thế nghiêng
+	+ try angling the camera for a more interesting picture
+		-> hãy thử đặt nghiêng máy ảnh để có một bức ảnh thú vị hơn
+    - (to angle something at / to / towards somebody) trình bày (thông tin....) từ một quan điểm riêng biệt; nhằm vào
+	+ this programme is angled at young viewers
+		-> chương trình này nhằm vào các khán giả trẻ
+* danh từ
+    - (từ cổ,nghĩa cổ) lưỡi câu
+* nội động từ
+    - câu cá
+	+ to go angling
+		-> đi câu (cá)
+	+ angling for trout
+		-> câu cá hồi
+    - (to angle for something) cố giành được cái gì bằng cách nói bóng gió
+	+ to angle for compliments, an invitation, a free ticket
+		-> cố moi cho được những lời khen, một giấy mời, một chiếc vé không mất tiền
+	+ to angle for somebody's heart
+		-> cố tranh thủ tình cảm của ai, cố lấy lòng ai

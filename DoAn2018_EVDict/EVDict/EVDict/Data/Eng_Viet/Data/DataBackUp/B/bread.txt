@@ -1,0 +1,9 @@
+﻿bread (n)
+bread [bred]
+* danh từ
+    - bánh mì
+	+ a loaf of bread
+		-> ổ bánh mì
+    - (nghĩa bóng) miếng ăn, kế sinh nhai
+	+ daily bread
+		-> miếng ăn hàng ngày

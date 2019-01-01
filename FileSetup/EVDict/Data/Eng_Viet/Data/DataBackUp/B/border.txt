@@ -1,0 +1,41 @@
+﻿border (n)(v)
+border ['bɔ:də]
+* danh từ
+    - (vùng đất gần với) đường phân chia hai vùng hoặc hai quốc gia; biên giới
+	+ the terrorists escaped across/over the border
+		-> bọn khủng bố đã đào tẩu qua biên giới
+	+ a border town, guard, patrol
+		-> thị trấn, người lính gác, đội tuần tra biên giới
+	+ border incidents
+		-> những vụ rắc rối ở biên giới
+    - đường viền (để làm cho chắc, để trang trí)
+	+ the border of a picture/photograph
+		-> đường viền của một bức tranh/bức ảnh
+	+ a handkerchief, tablecloth with an embroidered border
+		-> khăn tay, khăn bàn có đường viền thêu
+    - (the Border) vùng biên giới giữa Anh và Ê-cốt; (từ Mỹ,nghĩa Mỹ) biên giới của văn minh
+    - dải đất dọc theo lề một bãi cỏ hoặc một đường nhỏ để trồng hoa hoặc những cây bụi; bờ; lề; luống
+	+ a herbaceous border
+		-> bờ cỏ
+	+ a border of tulips
+		-> luống hoa uất kim hương
+* ngoại động từ
+    - viền
+	+ a handkerchief bordered with lace
+		-> khăn tay viền đăng ten
+    - là đường biên của cái gì; nằm trên đường biên của cái gì; giáp với; tiếp giáp
+	+ our garden is bordered on one side by a stream
+		-> khu vườn của chúng tôi một bên giáp với một con suối
+	+ how many countries border Switzerland?
+		-> có bao nhiêu nước giáp với Thụy Sĩ?
+* nội động từ
+    - (to border on something) gần với cái gì; tiếp giáp với cái gì
+	+ the park borders on the shores of the lake
+		-> công viên nằm giáp với bờ hồ
+	+ the new housing estate borders on the motorway
+		-> khu nhà mới nằm ven xa lộ
+    - (nghĩa bóng) gần giống như cái gì; gần như cái gì
+	+ his bluntness borders on insolence
+		-> sự lỗ mãng của hắn gần như là láo xược
+	+ our task borders on the impossible
+		-> nhiệm vụ của chúng tôi gần như là bất khả thi

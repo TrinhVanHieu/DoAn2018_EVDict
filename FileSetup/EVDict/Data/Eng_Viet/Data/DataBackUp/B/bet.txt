@@ -1,0 +1,28 @@
+﻿bet (n)
+bet [bet]
+* danh từ
+    - sự cá độ; sự đánh cuộc
+	+ to lay/make a bet
+		-> đánh cuộc, cá độ
+	+ to have a bet on the Derby
+		-> đánh cá con ngựa Derby
+	+ to lose a bet
+		-> thua cuộc
+	+ to win a bet
+		-> thắng cuộc
+    - tiền đánh cuộc; tiền cá độ; tiền đánh cá
+	+ to place/put a bet on a horse
+		-> đặt tiền cá độ một con ngựa
+    - lời dự đoán
+	+ my bet is they are short of money
+		-> tôi đoán rằng họ thiếu tiền
+* động từ, thì quá khứ và động tính từ quá khứ là bet hoặc betted
+    - (to bet something on something) đánh cuộc; đánh cá
+	+ to spend all one's money betting on horses
+		-> dốc hết tiền vào việc cá ngựa
+	+ to bet on someone's winning
+		-> đánh cuộc ai thắng
+	+ to bet against someone's winning
+		-> đánh cuộc ai thua
+	+ daren't you bet me that he will prostrate himself at my feet?
+		-> anh không dám đánh cuộc với tôi rằng nó sẽ quỳ lạy tôi hay sao?

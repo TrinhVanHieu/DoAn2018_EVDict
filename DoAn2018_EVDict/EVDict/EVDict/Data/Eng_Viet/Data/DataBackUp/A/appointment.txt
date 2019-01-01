@@ -1,0 +1,23 @@
+﻿appointment (n)
+appointment [ə'pɔintmənt]
+* danh từ
+    - sự bổ nhiệm
+	+ appointment of someone to a post
+		-> sự bổ nhiệm ai vào một chức vụ
+	+ his promotion to manager was a popular appointment
+		-> ông ấy được đề bạt làm giám đốc là một sự bổ nhiệm được lòng công chúng
+    - công việc mà người nào được đặt vào
+	+ I'm looking for a permanent appointment
+		-> tôi đang tìm kiếm một công việc làm thường xuyên
+    - sự sắp xếp để gặp hoặc thăm ai vào một thời gian đặc biệt
+	+ to make/fix an appointment with someone
+		-> hẹn gặp ai
+	+ to break an appointment
+		-> thất hẹn, sai hẹn
+	+ to keep an appointment
+		-> đúng hẹn
+	+ I've a dental appointment at 3 pm
+		-> tôi có hẹn chữa răng vào ba giờ chiều
+	+ interviews are by appointment only
+		-> ai có hẹn trước thì mới được phỏng vấn
+    - (appointments) thiết bị; đồ đạc

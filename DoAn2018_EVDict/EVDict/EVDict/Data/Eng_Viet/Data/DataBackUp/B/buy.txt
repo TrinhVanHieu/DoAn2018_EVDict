@@ -1,0 +1,12 @@
+﻿buy (n)(v)
+buy [bai]
+* động từ bất quy tắc bought
+    - mua
+    - (nghĩa bóng) trả bằng giá; đạt được, được (cái gì bằng một sự hy sinh nào đó)
+    - mua chuộc, đút lót, hối lộ (ai)
+* danh từ
+    - (thông tục)
+    - sự mua
+    - vật mua
+	+ a good buy
+		-> món hời

@@ -1,0 +1,25 @@
+﻿blame (n)(v)
+blame [bleim]
+* danh từ
+    - (blame for something) trách nhiệm về một cái gì đã làm sai hoặc hỏng
+	+ to bear/take/accept/get the blame for something
+		-> chịu, chấp nhận, lãnh lấy, bị sự khiển trách (về cái gì)
+	+ where does the blame for this failure lie ?
+		-> ai chịu trách nhiệm về sự thất bại này?, trách nhiệm về sự thất bại này là do đâu?
+	+ to lay the blame on somebody; to lay the blame at somebody's door; to shift the blame on somebody
+		-> quy trách nhiệm về ai; đỗ lỗi cho ai
+	+ to lay the blame at the right door (on the right shoulders)
+		-> quy trách nhiệm đúng vào người phải chịu trách nhiệm
+    - sự khiển trách; lời trách mắng
+	+ to deserve blame
+		-> đáng bị khiển trách
+	+ he incurred much blame for his stubborn attitude
+		-> anh ta bị khiển trách rất nhiều vì thái độ ngoan cố của mình
+* ngoại động từ
+    - (to blame somebody for something; to blame something on somebody) khiển trách, đổ lỗi
+	+ I don't blame you
+		-> tôi chẳng chê trách anh đâu
+	+ the young wife blames her sterility on her old husband
+		-> cô vợ trẻ đổ lỗi cho ông chồng già về tình trạng vô sinh của cô
+	+ he blamed me for his joblessness, he blamed his joblessness on me
+		-> ông ấy đổ lỗi cho tôi về việc ông ấy thất nghiệp, ông ấy cho rằng do tôi mà ông ấy thất nghiệp

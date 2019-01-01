@@ -1,0 +1,28 @@
+﻿agreement (n)
+agreement [ə'gri:mənt]
+* danh từ
+    - sự thoả thuận, hứa hẹn hoặc giao kèo với ai; hợp đồng
+	+ please sign the agreement
+		-> mời ông ký vào bản hợp đồng
+	+ an agreement with the employers was finally worked out
+		-> cuối cùng đã vạch ra được một thoả thuận với các ông chủ
+	+ to enter into an agreement with somebody
+		-> ký kết một hợp đồng với ai
+	+ they have broken the agreement between them
+		-> họ đã vi phạm hợp đồng giữa họ với nhau
+    - sự bằng lòng, sự tán thành, sự đồng ý
+	+ by mutual agreement
+		-> theo sự thoả thuận chung
+	+ to come to an agreement
+		-> đi đến sự thoả thuận; đi đến ký kết một hiệp định
+	+ the two sides failed to reach agreement
+		-> hai bên không thoả thuận được với nhau
+	+ there is little agreement as to what our policy should be
+		-> có rất ít sự thống nhất về vấn đề chính sách của chúng ta sẽ thế nào
+	+ individualism is not in agreement with the common interests
+		-> chủ nghĩa cá nhân không phù hợp với lợi ích chung
+	+ are we in agreement about the price?
+		-> chúng ta có thống nhất với nhau về giá cả hay không?
+    - (ngôn ngữ) có cùng số, giống, cách hoặc ngôi
+	+ agreement between subject and verb
+		-> sự phù hợp giữa chủ ngữ và động từ

@@ -1,0 +1,24 @@
+﻿award (n)(v)
+award [ə'wɔ:d]
+* danh từ
+    - sự quyết định cho cái gì, do quan toà, hội đồng trọng tài, hội đồng giám khảo... ban bố
+	+ the award of a scholarship
+		-> quyết định cấp học bổng
+    - phần thưởng
+	+ she showed us the athletics medals she had won
+		-> cô ấy cho chúng tôi xem những phần thưởng điền kinh mà cô ấy đã giành được
+	 + to win a merit award
+		-> được phần thưởng công trạng
+	+ award presentation
+		-> sự tặng thưởng
+    - học bổng
+	+ eligible for an award
+		-> đủ tư cách nhận học bổng
+* ngoại động từ
+    - (to award something to somebody) thưởng, tặng, phạt
+	+ she was awarded a medal for bravery
+		-> cô ấy được tặng thưởng huy chương về lòng dũng cảm
+	+ the jury awarded both teams equal points
+		-> ban giám khảo quyết định cho cả hai đội số điểm bằng nhau
+	+ the court awarded him damages of 5000 dollars
+		-> tòa quyết định phạt anh ta 5000 đô la về các thiệt hại

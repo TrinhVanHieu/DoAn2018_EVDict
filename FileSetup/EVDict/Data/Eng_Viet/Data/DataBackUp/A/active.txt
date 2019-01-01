@@ -1,0 +1,27 @@
+﻿active (adj)
+active ['æktiv]
+* tính từ
+    - tích cực, hoạt động; nhanh nhẹn, linh lợi
+	+ an active volcano
+		-> núi lửa còn hoạt động
+	+ an active brain
+		-> đầu óc linh lợi
+	+ to take an active part in the revolutionary movement
+		-> tham gia tích cực phong trào cách mạng
+    - thiết thực, thực sự
+	+ it's no use talking, he wants active help
+		-> nói mồm chẳng có ích gì, anh ấy cần sự giúp đỡ thiết thực cơ
+    - (ngôn ngữ học) chủ động
+	+ the active voice
+		-> dạng chủ động
+    - (quân sự) phục vụ suốt ngày trong quân ngũ (nhất là trong chiến tranh); tại ngũ
+	+ to be on active service/duty
+		-> đang tại ngũ
+	+ to be called up for the active service
+		-> được gọi nhập ngũ
+    - (vật lý) hoạt động; phóng xạ
+    - hoạt động, hiệu nghiệm, công hiệu, có hiệu lực
+	+ active valence
+		-> hoá trị hiệu lực
+	+ active remedies
+		-> những phương thuốc công hiệu

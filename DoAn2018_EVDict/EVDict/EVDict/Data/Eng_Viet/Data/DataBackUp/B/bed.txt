@@ -1,0 +1,64 @@
+﻿bed (n)
+bed [bed]
+* danh từ
+    - cái giường
+	+ a single bed
+		-> giường chiếc (dành cho một người)
+	+ a double bed
+		-> giường đôi
+	+ to make the bed
+		-> sắp đặt chăn gối.. để chuẩn bị cái giừơng sẵn sàng cho ai ngủ; làm giừơng
+	+ to go to bed
+		-> đi ngủ
+	+ to be in bed
+		-> đang nằm trên giừơng (đang ngủ)
+	+ to get out of/into bed
+		-> ra khỏi/lên giừơng
+	+ can you give me a bed for the night?
+		-> anh cho tôi ngủ nhờ đêm nay được không?
+	+ I've put the children to bed
+		-> Tôi đã cho trẻ con đi ngủ cả rồi
+	+ he has a mug of cocoa before bed
+		-> nó uống một chén ca cao trước khi đi ngủ
+	+ It's time for bed
+		-> Đã đến giờ đi ngủ
+    - cái đệm
+	+ a feather bed
+		-> cái đệm nhồi lông chim
+	+ a spring bed
+		-> cái giừơng lò xo
+    - đáy biển, sông, hồ...
+	+ to explore the ocean bed
+		-> thăm dò đáy biển
+    - lớp đất sét, đá bên dưới mặt đất
+	+ a bed of clay, limestone, sand
+		-> một tầng đất sét, đá vôi, cát
+    - nền phẳng để đặt cái gì; nền móng
+	+ the machine rests on a bed of concrete
+		-> cỗ máy đặt trên một cái nền bằng bê tông
+    - lớp đá sỏi làm nền cho một con đường hoặc đường xe lửa
+    - mảnh vườn, chỗ đất để trồng hoa, rau
+	+ a seed-bed
+		-> một mảnh đất gieo hạt
+	+ flower-beds
+		-> những vồng hoa
+	+ a bed of herbs
+		-> một luống dược thảo
+    - (pháp lý) hôn nhân; vợ chồng
+	+ a child of the second bed
+		-> đứa con của người vợ (chồng) sau
+    - sự ăn nằm với nhau, sự giao cấu
+	+ they think of nothing but bed!
+		-> chúng chẳng nghĩ đến gì khác ngoài chuyện ăn nằm với nhau!
+* động từ
+    - xây vào, đặt vào, gắn vào, vùi vào, chôn vào
+	+ bricks are bedded in mortar
+		-> gạch xây lẫn vào trong vữa
+	+ the bullet bedded itself in the wall
+		-> viên đạn gắn ngập vào trong tường
+    - cung cấp một cái giừơng
+	+ the wounded are bedded in the farmhouse
+		-> những người bị thương được đặt nằm trong nhà trại
+    - ăn nằm thất thường với ai
+	+ he's bedded more girls than he can remember
+		-> hắn ăn nằm với nhiều cô gái quá nên không nhớ xuể

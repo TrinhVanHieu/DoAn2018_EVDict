@@ -1,0 +1,17 @@
+﻿brick (n)
+brick [brik]
+* danh từ
+    - gạch
+	+ to make (burn) bricks
+		-> nung gạch
+    - bánh, thỏi, cục (xà phòng, chè...)
+    - (từ lóng) người chính trực, người trung hậu
+    - (từ lóng) người rộng lượng, người hào hiệp
+* tính từ
+    - bằng gạch
+	+ a brick wall
+		-> bức tường gạch
+* ngoại động từ
+    - (+ up) xây gạch bít đi
+	+ to brick up a window
+		-> xây gạch bít cửa sổ

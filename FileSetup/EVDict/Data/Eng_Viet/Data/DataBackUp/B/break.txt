@@ -1,0 +1,146 @@
+﻿break (n)(v)
+break [breik]
+* danh từ
+    - xe vực ngựa (tập cho ngựa kéo xe)
+    - xe ngựa không mui
+    - sự gãy, sự kéo, sự đứt, sự ngắt
+    - chỗ vỡ, chỗ nứt, chỗ rạn
+    - sự nghỉ, sự dừng lại, sự gián đoạn
+	+ without a break
+		-> không ngừng
+    - (ngôn ngữ nhà trường) giờ nghỉ, giờ ra chơi, giờ giải lao
+    - sự cắt đứt quan hệ, sự tuyệt giao
+	+ to make a break with somebody
+		-> cắt đứt quan hệ với ai
+    - sự lỡ lời; sự lầm lỗi
+    - sự vỡ nợ, sự bị phá sản
+    - sự thay đổi thời tiết
+    - (từ Mỹ,nghĩa Mỹ) sự thụt giá thình lình
+    - (thông tục) dịp may, cơ hội
+	+ to get the breaks
+		-> gặp cơ hội thuận lợi, gặp may
+    - (âm nhạc) sự đổi giọng; sự chuyển âm vực
+    - mục xen vào chương trình rađiô (hoặc truyền hình) đang phát
+* ngoại động từ bất quy tắc broke; broken
+    - làm gãy, bẻ gãy, làm đứt, làm vỡ, đập vỡ
+	+ to break one's arm
+		-> bị gãy tay
+	+ to break a cup
+		-> đập vỡ cái tách
+	+ to break clods
+		-> đập nhỏ những cục đất
+	+ to break ground
+		-> động thổ, bắt đầu một công việc, khởi công, bắt đầu bao vây
+    - cắt, ngắt, làm gián đoạn, ngừng phá
+	+ to break a journey
+		-> ngừng cuộc hành trình
+	+ to break the silence
+		-> phá tan sự yên lặng
+	+ to break the spell
+		-> giải mê, giải bùa
+	+ to break a sleep
+		-> làm mất giấc ngủ
+	+ to break the telephone communications
+		-> làm gián đoạn sự liên lạc bằng điện thoại
+	+ to break a record
+		-> phá kỷ lục
+    - xua tan, làm tan tác
+	+ to break the ranks
+		-> phá bỏ hàng ngũ
+	+ to break the clouds
+		-> xua tan những đám mây
+	+ to break bulk
+		-> bắt đầu dỡ hàng (trên tàu thuỷ)
+    - xâm phạm, vi phạm
+	+ to break the law
+		-> phạm luật
+	+ to break one's promise (word); to break faith with someone
+		-> bội ước, không giữ lời hứa với ai
+	+ to break the peace
+		-> gây rối trật tự công cộng
+    - truyền đạt, báo (tin)
+	+ to break one's mind to...
+		-> truyền đạt ý kiến của mình cho...
+	+ to break news
+		-> báo tin
+    - làm suy sụp, làm nhụt (ý chí...), làm mất hết
+	+ to break someone's health
+		-> làm ai mất sức, làm ai suy nhược
+	+ to break someone's courage
+		-> làm ai mất hết can đảm
+	+ to break someone's will
+		-> làm nhụt ý chí của ai
+	+ to break someone's heart
+		-> làm ai đau lòng
+	+ to break bank
+		-> ăn hết tiền của nhà cái
+	+ to break an officer
+		-> (quân sự) tước quân hàm (lột lon) một sĩ quan
+    - ngăn đỡ, làm yếu đi, làm nhẹ đi
+	+ to break a current
+		-> ngăn dòng nước
+	+ to break the force of a blow
+		-> đỡ một miếng đòn
+	+ to break a fall
+		-> đỡ cho khỏi bị ngã
+    - làm cho thuần thục; tập luyện
+	+ to break a horse
+		-> tập ngựa
+    - đập tan; đàn áp, trấn áp
+	+ to break a rebellion
+		-> đàn áp một cuộc nổi loạn
+    - sửa chữa
+	+ to break someone of a habit
+		-> sửa chữa cho ai một thói quen
+    - mở, mở tung ra, cạy tung ra
+	+ to break a letter open
+		-> xé lá thư
+	+ to break a way
+		-> mở đường
+	+ to break gaol
+		-> vượt ngục
+* nội động từ
+    - gãy, đứt, vỡ
+	+ the branch broke
+		-> cành cây gãy
+	+ the abscess breaks
+		-> nhọt vỡ
+    - chạy tán loạn, tan tác
+	+ enemy troops break
+		-> quân địch bỏ chạy tán loạn
+    - ló ra, hé ra, hiện ra
+	+ day broke
+		-> trời bắt đầu hé sáng
+    - thoát khỏi; sổ ra; ((thể dục,thể thao)) buông ra (quyền Anh)
+	+ to break from someone's bonds
+		-> thoát khỏi sự ràng buộc của ai
+	+ to break free (loose)
+		-> trốn (chạy) thoát; sổ ra, sổ lồng
+    - suy nhược, yếu đi; suy sụp, sa sút, phá sản
+	+ his health is breaking
+		-> sức khoẻ của anh ta sút đi
+	+ his heart breaks
+		-> anh ta đau lòng đứt ruột
+	+ a merchant breaks
+		-> một nhà buôn bị phá sản
+    - thay đổi
+	+ the weather begins to break
+		-> thời tiết bắt đầu thay đổi
+    - vỡ tiếng, nức nở, nghẹn ngào (tiếng nói)
+	+ his voice breaks
+		-> hắn ta vỡ tiếng; giọng nói của anh ta nghẹn ngào (vì xúc động)
+    - đột nhiên làm; phá lên
+	+ to break into tears
+		-> khóc oà lên
+	+ to break into a gallop
+		-> đột nhiên chồm lên phi nước đại (ngựa)
+    - cắt đứt quan hệ, tuyệt giao
+	+ to break with somebody
+		-> cắt đứt quan hệ với ai
+    - phá mà vào, phá mà ra, xông vào nhà; phá cửa vào nhà, bẻ khoá vào nhà
+	+ to break out of prison
+		-> phá ngục mà ra; vượt ngục
+	+ to break through obstacles
+		-> vượt qua mọi trở ngại
+	+ to break through the enemy's line
+		-> chọc thủng phòng tuyến của địch

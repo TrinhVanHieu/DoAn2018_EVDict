@@ -1,0 +1,16 @@
+﻿aspect (n)
+aspect ['æspekt]
+* danh từ
+    - vẻ bề ngoài; diện mạo
+	+ to have a gentle aspect
+		-> có vẻ hiền lành
+	+ a man of enormous size and terrifying aspect
+		-> người có vóc dáng to đùng và diện mạo khủng khiếp
+    - phía của một ngôi nhà nhìn vào một hướng nhất định; hướng
+	+ the house has a southern aspect
+		-> ngôi nhà xoay hướng về hướng nam
+    - vị trí tương quan của các ngôi sao và các hành tinh được cho là ảnh hưởng đến trái đất
+    - bộ phận hoặc nét riêng biệt của cái gì đang được xem xét; khía cạnh; mặt
+	+ to study every aspect of a question
+		-> nghiên cứu mọi khía cạnh của vấn đề
+    - (ngôn ngữ học) loạt ý nghĩa được biểu thị bằng các dạng của động từ have + động tính từ quá khứ (has played chẳng hạn) hoặc be + động tính từ hiện tại (is playing chẳng hạn); thể

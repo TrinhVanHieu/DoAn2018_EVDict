@@ -1,0 +1,32 @@
+﻿attach (v)
+attach [ə'tæt∫]
+* ngoại động từ
+    - (to attach something to something) gắn, dán, trói buộc
+	+ To attach a label to a bag
+		-> Dán nhãn vào cái túi
+	+ A garden with a swimming-pool attached
+		-> Một khu vườn có bể bơi liền kề
+	+ A document attached to an invoice (with a pin)
+		-> Một chứng từ được đính vào hoá đơn (bằng một cái ghim)
+	+ Attached you will find ...
+		-> Kèm theo anh sẽ nhận được...
+    - (to attach oneself to somebody / something) nhập bọn, tham gia (dù không được mời)
+	+ An old foreigner attached himself to me at the wedding and I couldn't get rid of him
+		-> Một lão già nước ngoài bám theo tôi trong đám cưới và tôi không tài nào xua lão đi được
+	+ She attached herself to a group of foreign students visiting our supermarket
+		-> Cô ta nhập vào đám sinh viên nước ngoài đang tham quan siêu thị của chúng tôi
+    - (to attach somebody to somebody / something) biệt phái
+	+ He'll be attached to my office until the end of the year
+		-> Nó sẽ được biệt phái về cơ quan tôi cho tới cuối năm
+    - (to attach something to somebody / something) coi; cho là; gán cho
+	+ To attach importance to one's study
+		-> Coi việc học hành là quan trọng; coi trọng việc học hành
+	+ To attach little value to someone's statement
+		-> Coi lời tuyên bố của ai là không có giá trị mấy
+    - (pháp lý) bắt giữ (ai); tịch biên (gia sản...)
+* nội động từ
+    - gắn liền với
+	+ The responsibility that attaches to that position
+		-> Trách nhiệm gắn liền với cương vị công tác đó
+	+ No blame attaches to her in this scandal
+		-> Bà ta không hề bị trách cứ trong vụ bê bối này

@@ -1,0 +1,38 @@
+﻿band (n)
+band [bænd]
+* danh từ
+    - dải dẹt và mỏng, đai hoặc nẹp dùng để buộc đồ vật với nhau hoặc quấn quanh một vật cho chặt thêm; đai; nẹp
+	+ iron bands round a barrel
+		-> những nẹp sắt bao quanh thùng gỗ
+	+ papers kept together with a rubber band
+		-> những tập giấy buộc vào nhau bằng dây cao su
+	+ the waistband of a dress
+		-> dải thắt lưng của áo dài
+    - dải hoặc đường kẻ trên một cái gì, khác màu hoặc khác kiểu với phần còn lại; dải; băng; đường kẻ
+	+ a white plate with a blue band round the edge
+		-> chiếc đĩa trắng có đường chỉ xanh viền mép
+    - (vật lý) một dải bước sóng trong giới hạn nhất định (cũng) waveband
+	+ frequency band
+		-> dải tần số
+	+ the 19-metre band
+		-> dải sóng 19 mét
+    - nhóm người cùng làm một việc gì; toán; tốp
+	+ a band of robbers
+		-> một băng cướp
+	+ a band of joiners
+		-> một tốp thợ mộc
+    - nhóm người chơi nhạc cụ (nhất là nhạc cụ thổi); đội
+	+ a brass band
+		-> đội kèn đồng
+	+ a military band
+		-> đội quân nhạc
+    - nhóm người chơi nhạc dân gian; ban nhạc; dàn nhạc
+	+ a dance band
+		-> dàn nhạc nhảy
+	+ a jazz band
+		-> ban nhạc jazz
+* động từ
+    - buộc dải lên xung quanh cái gì; buộc dải; đóng đai
+    - (to band together) tập hợp trong một nhóm
+	+ to band together to protest
+		-> tập hợp lại để phản đối

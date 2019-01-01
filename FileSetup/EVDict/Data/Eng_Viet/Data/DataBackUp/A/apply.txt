@@ -1,0 +1,51 @@
+﻿apply (v)
+apply [ə'plai]
+* ngoại động từ
+    - (to apply something to something) đặt hoặc phết cái gì vào cái gì
+	+ to apply plaster to the wound
+		-> đắp thuốc vào vết thương
+	+ to apply ointment sparingly
+		-> bôi thuốc mỡ một cách dè xẻn
+	+ to apply the glue to both surfaces
+		-> phết hồ dán lên cả hai mặt
+	+ to apply one's ear to the wall
+		-> áp tai vào tường
+    - gây ra (một lực...) để tác động cái gì
+	+ to apply the brakes hard
+		-> bóp phanh mạnh; đạp phanh mạnh
+	+ to apply force, pressure, heat
+		-> gây ra một lực, sức ép, sức nóng
+    - ứng dụng, áp dụng
+	+ to apply a new method
+		-> áp dụng một phương pháp mới
+	+ to apply a law/rule/precept
+		-> áp dụng một đạo luật/quy tắc/lệnh
+	+ to apply economic sanctions
+		-> áp dụng những chế tài về kinh tế
+	+ I'd never apply the word "readable" to any of his books
+		-> tôi chẳng bao giờ dám dùng hai chữ "đọc được" cho bất cứ quyển sách nào của ông ấy
+	+ the results of this research can be applied to new developments in technology
+		-> kết quả của công trình nghiên cứu này có thể áp dụng cho những phát triển mới về công nghệ
+    - (to apply oneself / something to something / doing something) chăm chú, chuyên tâm
+	+ to apply oneself to a task
+		-> chuyên tâm vào nhiệm vụ; hết lòng hết sức làm nhiệm vụ
+	+ to apply one's minds to finding a solution
+		-> chuyên tâm vào việc tìm ra một giải pháp
+	+ you will only pass your exams if you really apply yourself (to your work)
+		-> anh chỉ có thể thi đỗ nếu thật sự chuyên tâm (vào việc học tập của mình)
+* nội động từ
+    - (to apply to somebody for something) đưa ra một yêu cầu chính thức
+	+ to apply for a post/job/passport/visa
+		-> xin một chức vụ/việc làm/hộ chiếu/thị thực
+	+ you should apply immediately, in person or by letter
+		-> bạn nên đề nghị ngay, trực tiếp đến hoặc bằng thư
+	+ to apply to the publishers for permission to reprint an extract
+		-> xin phép nhà xuất bản in lại một đoạn trích
+    - tiếp xúc với ai để biết tin tức
+	+ you must apply to the secretary
+		-> anh phải hỏi người thư ký
+    - (to apply to somebody / something) thích hợp với ai/cái gì; có hiệu lực; có hiệu quả
+	+ these rules don't always apply
+		-> những quy tắc này không phải lúc nào cũng ứng dụng được
+	+ what I've said applies only to some of you
+		-> những điều tôi nói chỉ có hiệu lực đối với một số người trong các anh mà thôi

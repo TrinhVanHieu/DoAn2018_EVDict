@@ -1,0 +1,37 @@
+﻿attempt (n)(v)
+attempt [ə'tempt]
+* danh từ
+    - (attempt to do something / at doing something) sự cố gắng, sự thử
+	+ They made no attempt to break out of jail/at breaking out of jail
+		-> Họ không hề tìm cách vượt ngục
+	+ To fail in one's attempt
+		-> Thử làm nhưng thất bại
+    - (attempt at something) vật do ai tạo ra khi cố thực hiện cái gì
+	+ My first attempt at a chocolate cake tasted horrible
+		-> Cái bánh sôcôla của tôi làm thử làm đầu nếm thật khủng khiếp
+    - (attempt on something) nỗ lực nhằm hoàn thiện hơn hoặc chấm dứt cái gì; sự tấn công
+	+ An attempt on somebody's prerogatives
+		-> Sự phạm đến đặc quyền của ai
+	+ The latest attempt on the world land speed record
+		-> Nỗ lực nhằm đạt kỷ lục thế giới vếtôc độ trên đường bộ được thực hiện gần đây nhất
+	+ An attempt was made on the President's life
+		-> Đã có kẻ mưu sát Tổng thống
+* ngoại động từ
+    - cố gắng làm cái gì; thử làm cái gì
+	+ To attempt a hard task
+		-> Cố gắng làm một việc khó khăn
+	+ The prisoners of war attempted a jailbreak, but failed
+		-> Các tù binh toan vượt ngục, nhưng đã thất bại
+	+ To attempt the impossible
+		-> Cố làm một việc không thể làm được
+	+ All candidates must attempt Questions 1-5
+		-> Tất cả các thí sinh đều phải làm thử các câu hỏi 1-5
+	+ He was charged with attempted robbery
+		-> Anh ta bị kết tội mưu toan cướp của
+	+ She will attempt to beat the world record
+		-> Cô ấy sẽ cố gắng phá kỷ lục thế giới
+    - cố gắng vượt qua (quả núi...); cố gắng đánh chiếm (đồn lính....)
+	+ To attempt a fortress
+		-> Cố chiếm cho được một pháo đài
+	+ To attempt a mountain peak
+		-> Thử vượt qua một ngọn núi

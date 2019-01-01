@@ -1,0 +1,23 @@
+﻿application (n)
+application [,æpli'kei∫n]
+* danh từ
+    - sự gắn vào, sự áp vào, sự ghép vào, sự đính vào, sự đắp vào, sự tra vào ((cũng) appliance)
+	+ the application of a plaster to a wound
+		-> sự đắp thuốc vào vết thương
+    - vật gắn, vật áp, vật ghép, vật đính, vật đắp, vật tra
+    - sự dùng, sự áp dụng, sự ứng dụng
+	+ medicine for external application
+		-> thuốc dùng ngoài da
+    - sự chuyên cần, sự chuyên tâm
+	+ a man of close application
+		-> một người rất chuyên cần
+    - lời xin, lời thỉnh cầu; đơn xin
+	+ application for a job
+		-> đơn xin việc làm
+	+ to make an application to someone for something
+		-> gửi đơn cho ai để xin việc gì
+	+ to put in an application
+		-> đệ đơn xin, gửi đơn xin
+    - (tin học) trình ứng dụng
+	+ application software
+		-> phần mềm ứng dụng

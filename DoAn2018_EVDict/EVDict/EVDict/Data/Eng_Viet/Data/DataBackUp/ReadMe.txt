@@ -1,0 +1,1 @@
+copy all file inside folder A &  B, and paste to Data (Data\Eng_Viet\Data)

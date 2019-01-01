@@ -1,0 +1,22 @@
+﻿atmosphere
+atmosphere ['ætməsfiə]
+* danh từ
+    - khí quyển
+	+ upper atmosphere
+		-> tầng khí quyển cao
+	+ outer atmosphere
+		-> tầng khí quyển ngoài
+    - không khí (nghĩa đen) & (nghĩa bóng)
+	+ the noisy atmosphere of a big city
+		-> không khí náo nhiệt của một thành phố lớn
+	+ tense atmosphere
+		-> không khí căng thẳng
+	+ the meeting between the two religious leaders took place in a cordial atmosphere
+		-> cuộc gặp gỡ giữa hai vị lãnh tụ tôn giáo diễn ra trong bầu không khí thân mật
+    - Atmôfe (đơn vị)
+	+ absolute atmosphere
+		-> atmôtfe tuyệt đối
+	+ normal atmosphere
+		-> atmôfe tiêu chuẩn
+	+ technical atmosphere
+		-> atmôfe kỹ thuật

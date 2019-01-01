@@ -1,0 +1,12 @@
+﻿boat (n)
+boat [bout]
+* danh từ
+    - tàu thuyền
+	+ to take a boat for...
+		-> đáp tàu đi...
+    - đĩa hình thuyền (để đựng nước thịt...)
+* nội động từ
+    - đi chơi bằng thuyền
+    - đi tàu, đi thuyền
+* ngoại động từ
+    - chở bằng tàu, chở bằng thuyền

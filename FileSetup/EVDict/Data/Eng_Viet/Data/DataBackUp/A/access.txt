@@ -1,0 +1,30 @@
+﻿access (n)
+access [ˈækses]
+* danh từ
+    - (access to something) phương tiện đến gần hoặc đi vào nơi nào đó; đường vào
+	+ the only access to the farmhouse is across the fields
+		-> lối duy nhất dẫn vào trang trại là băng qua các cánh đồng
+	+ easy/ difficult of access
+		-> dễ/ khó lui tới
+	+ the village is easy of access
+		-> đường vào làng dễ đi
+    - sự dâng lên (nước triều)
+	+ the access and recess of the sea
+		-> lúc triều lên và triều xuống ở biển
+    - cơn
+	+ access of anger
+		-> cơn giận
+	+ access of illness
+		-> cơn bệnh
+    - (access to something/ somebody) cơ hội/ quyển sử dụng cái gì; sự đến gần ai
+	+ to get access to classified information
+		->  được quyền sử dụng thông tin đã phân loại
+	+ students must have access to a good library
+		-> sinh viên phải được quyền vào đọc sách ở một thư viện tốt
+	+ only high officials had access to the President
+		-> chỉ những quan chức cao cấp mới có quyền đến gặp Tổng thống
+    - (tin học) sự truy cập (thông tin)
+* ngoại động từ
+    - (tin học) sự truy
+	+ to access a file
+		-> truy cập một tập tin

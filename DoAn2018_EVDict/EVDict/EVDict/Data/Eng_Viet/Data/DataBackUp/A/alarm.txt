@@ -1,0 +1,21 @@
+﻿alarm (n)
+alarm [ə'lɑ:m]
+* danh từ
+    - tiếng động hoặc tín hiệu báo nguy; sự báo động; sự báo nguy
+	+ air-raid alarm
+		-> báo động phòng không
+	+ to give/raise/sound the alarm
+		-> báo động/phát tín hiệu/rung chuông/kéo còi báo động
+    - còi báo động; chuông báo động
+	+ where's the fire alarm?
+		-> còi báo cháy ở đâu?
+    - như alarm-clock
+    - sự sợ hãi; sự lo sợ; sự hoảng hốt; sự hoảng sợ
+	+ this news fills him with alarm
+		-> tin này làm cho ông ta lo sợ
+	+ to jump up in alarm
+		-> hốt hoảng nhảy chồm dậy
+	+ there's no cause for alarm
+		-> chẳng có lý do gì phải hốt hoảng cả
+* ngoại động từ
+    - làm cho hoảng sợ; làm cho lo lắng

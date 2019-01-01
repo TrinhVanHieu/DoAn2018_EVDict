@@ -1,0 +1,50 @@
+﻿average (adj)(n)
+average ['ævəridʒ]
+* danh từ
+    - kết quả của việc cộng các số lượng với nhau rồi chia tổng số cho số các số lượng; số trung bình
+	+ the average of 4, 5 and 9 is 6
+		-> số trung bình của 4, 5 và 9 là 6
+	+ to take (strike ) an average
+		-> lấy số trung bình
+    - chuẩn mực hoặc mức được coi như là thông thường; mức trung bình
+	+ below average
+		-> dưới trung bình
+	+ above average
+		-> trên trung bình
+	+ on (the ) average
+		-> tính toán việc sử dụng, thành tích... qua một thời kỳ
+	+ we fail one student per year on average
+		-> tính trung bình mỗi năm chúng tôi bị trượt một sinh viên
+	+ each of us eats nine kilos of rice per month on average
+		-> trung bình thì mỗi người chúng ta ăn chín ký gạo mỗi tháng
+    - (hàng hải) tổn thất của chiếc tàu hoặc hàng hoá trên tàu do gặp nạn trên biển
+* tính từ
+    - trung bình
+	+ average output
+		-> sản lượng trung bình
+	+ average value
+		-> giá trị trung bình
+	+ the average age of the students is 19
+		-> tuổi trung bình của các sinh viên là 19
+	+ the average temperature in Oxford last month was 18 degrees C
+		-> nhiệt độ trung bình ở Oxford tháng vừa rồi là 18 độ C
+    - theo chuẩn mực bình thường hoặc thông thường; trung bình
+	+ children of average intelligence
+		-> những đứa trẻ có trí thông minh trung bình
+	+ rainfall is about average for the time of year
+		-> đối với thời gian này trongnăm, mưa như vậy là xấp xỉ mức trung bình
+	+ of average height
+		-> có chiều cao vừa phải (trung bình)
+	+ man of average abilities
+		-> người có khả năng bình thường
+* động từ
+    - tìm số trung bình của cái gì
+	+ to average a loss
+		-> tính trung bình số thiệt hại
+	+ I've done some averaging to reach these figures
+		-> tôi đã làm một số tính toán trung bình để có được những số liệu này
+    - làm hoặc đạt tới cái gì coi như số đo hoặc mức trung bình
+	+ this car averages 40 miles to the gallon
+		-> xe này tiêu thụ trung bình 40 dặm một galông (xăng)
+	+ the rainfall averages 36 inches a year
+		-> lượng mưa trung bình là 36 inch một năm
